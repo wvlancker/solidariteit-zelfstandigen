@@ -28,7 +28,7 @@ colofon: |
 
   Contact: Wim Van Lancker, wim.vanlancker@kuleuven.be
 
-  Alle cijfers, figuren en tabellen in dit rapport zijn reproduceerbaar met de code en de gegevens gearchiveerd op Zenodo: [10.5281/zenodo.22914842](https://doi.org/10.5281/zenodo.22914842). De tekst, de figuren en de tabellen staan onder een Creative Commons Naamsvermelding 4.0-licentie (CC BY 4.0), de code onder een MIT-licentie. De onderliggende gegevens blijven onder de voorwaarden van hun oorspronkelijke bron.
+  Alle cijfers, figuren en tabellen in dit rapport zijn reproduceerbaar met de code en de gegevens gearchiveerd op Zenodo: [10.5281/zenodo.22914841](https://doi.org/10.5281/zenodo.22914841). De tekst, de figuren en de tabellen staan onder een Creative Commons Naamsvermelding 4.0-licentie (CC BY 4.0), de code onder een MIT-licentie. De onderliggende gegevens blijven onder de voorwaarden van hun oorspronkelijke bron.
 ---
 
 <!--

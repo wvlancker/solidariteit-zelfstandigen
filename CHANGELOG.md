@@ -20,11 +20,19 @@ vindt die versie als apart archief op Zenodo.
 
 ---
 
+## 1.0.1 (23 september 2026)
+
+Correctie van het DOI. In 1.0.0 stonden het colofon en voetnoot 12 op
+`10.5281/zenodo.22914842`, de versie-DOI van de technische release 0.1.0, in plaats van op
+het concept-DOI. Beide vermelden nu
+[10.5281/zenodo.22914841](https://doi.org/10.5281/zenodo.22914841), dat altijd naar de
+nieuwste versie verwijst. Geen enkel cijfer, geen enkele figuur en geen enkele tabel wijzigt.
+
 ## 1.0.0 (23 september 2026)
 
 Eerste publieke versie van het rapport. Inhoudelijk gelijk aan 0.1.0; het colofon en
 voetnoot 12 in §5 vermelden nu het concept-DOI van het Zenodo-archief,
-[10.5281/zenodo.22914842](https://doi.org/10.5281/zenodo.22914842). Verwijs naar dat nummer:
+[10.5281/zenodo.22914841](https://doi.org/10.5281/zenodo.22914841). Verwijs naar dat nummer:
 het blijft ook bij latere versies naar de nieuwste verwijzen.
 
 ## 0.1.0 (23 september 2026)
