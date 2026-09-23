@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+openpyxl>=3.1.5   # pandas 3 weigert oudere versies
+xlrd>=2.0   # enkel nodig om het .xls-bestand van Statbel te lezen (02_verify_sources.py)
+PyYAML>=6.0   # leest CITATION.cff in code/tekst/zenodo_metadata.py

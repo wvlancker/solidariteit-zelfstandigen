@@ -1,0 +1,21 @@
+rubriek,bedrag,tabel_7,werkboek,verschil,blad,cel,oordeel
+ziekte,"WN alleenstaand, maximum bruto daginkomen, maand 2",179.5442,179.5442,0.0000,Primaire arbeidsongeschiktheid,C34,gelijk
+ziekte,"WN alleenstaand, minimum bruto daguitkering, maand 3",61.7700,61.7700,0.0000,Primaire arbeidsongeschiktheid,C48,gelijk
+ziekte,"WN alleenstaand, minimum bruto daguitkering, maand 4-6",61.7700,61.7700,0.0000,Primaire arbeidsongeschiktheid,C62,gelijk
+ziekte,"WN alleenstaand, minimum bruto daguitkering, maand 7-12",61.7700,61.7700,0.0000,Primaire arbeidsongeschiktheid,C76,gelijk
+ziekte,"WN samenwonend, minimum bruto daguitkering, maand 7-12",52.9700,52.9700,0.0000,Primaire arbeidsongeschiktheid,C235,gelijk
+ziekte,"ZN alleenstaand, forfait per dag",61.7700,61.7700,0.0000,Primaire arbeidsongeschiktheid,C9/26.07,gelijk
+ziekte,"ZN samenwonend, forfait per dag",47.3800,47.3800,0.0000,Primaire arbeidsongeschiktheid,C101/26.07,gelijk
+werkloosheid,"WN alleenstaand, minimum daguitkering, maand 1-3",54.2100,54.2100,0.0000,Werkloosheid,C26,gelijk
+werkloosheid,"WN alleenstaand, minimum daguitkering, maand 4-6",54.2100,54.2100,0.0000,Werkloosheid,C40,gelijk
+werkloosheid,"WN alleenstaand, minimum daguitkering, maand 7-12",54.2100,54.2100,0.0000,Werkloosheid,C54,gelijk
+werkloosheid,"WN alleenstaand, maximum brutomaandloon, maand 1-6",3365.1600,3365.1600,0.0000,Werkloosheid,C25,gelijk
+werkloosheid,"WN alleenstaand, maximum brutomaandloon, maand 7-12",3136.3900,3136.3900,0.0000,Werkloosheid,C53,gelijk
+werkloosheid,"WN samenwonend, minimum daguitkering, maand 1-3",52.1800,52.1800,0.0000,Werkloosheid,C142,gelijk
+werkloosheid,"WN samenwonend, minimum daguitkering, maand 4-6",49.1300,49.1300,0.0000,Werkloosheid,C157,gelijk
+werkloosheid,"WN samenwonend, minimum daguitkering, maand 7-12",49.1300,49.1300,0.0000,Werkloosheid,C172,gelijk
+werkloosheid,"WN samenwonend, maximum brutomaandloon, maand 1-6",3365.1600,3365.1600,0.0000,Werkloosheid,C141,gelijk
+werkloosheid,"WN samenwonend, maximum brutomaandloon, maand 7-12",3136.3900,3136.3900,0.0000,Werkloosheid,C171,gelijk
+werkloosheid,"ZN alleenstaand, overbruggingsrecht per maand",1638.2600,1638.2600,0.0000,Werkloosheid,C12,gelijk
+werkloosheid,"ZN samenwonend, overbruggingsrecht per maand",1638.2600,1638.2600,0.0000,Werkloosheid,C128,gelijk
+werkloosheid,"ZN met gezinslast, overbruggingsrecht per maand (niet gebruikt)",,2047.1800,,Werkloosheid,C69,staat niet in Tabel 7 (bewust)

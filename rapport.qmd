@@ -1,0 +1,116 @@
+---
+title: "Hoe solidair is de sociale zekerheid voor zelfstandigen?"
+subtitle: "Een onderzoeksrapport in opdracht van de vzw Academie voor de KMO, Zelfstandigen en Vrije Beroepen"
+kortetitel: "Hoe solidair is de sociale zekerheid voor zelfstandigen?"
+auteurs:
+  - Wim Van Lancker
+  - Julie Vinck
+  - Willem Goris
+  - Toon Van Havere
+# Elke regel van 'instelling' komt op de titelpagina onder elkaar; de aanbevolen
+# citatie zet ze achter elkaar, gescheiden door een komma. 'webadres' staat enkel
+# op de titelpagina, als klikbare link.
+instelling:
+  - "Research group on Social, Political and Population Change (ReSPOND)"
+  - "KU Leuven"
+webadres: "[www.respond-research.be](https://www.respond-research.be)"
+datum: "September 2026"
+# wijziging: opmaak | 22 september 2026, check finale versie: status "Ontwerpversie, niet verspreiden" van de titelpagina gehaald. Terugzetten kan door de regel hieronder te activeren.
+# status: "Ontwerpversie, niet verspreiden"
+# <!-- wijziging: publicatie | het colofon verwijst voor reproduceerbaarheid naar het DOI van
+# het Zenodo-archief, niet naar de GitHub-repository (vraag Wim, 23 september 2026). Zenodo maakt
+# dat DOI pas aan bij de eerste release, dus tot dan staat hier VUL-IN-DOI. Vervang het na die
+# release door het concept-DOI, EN activeer dezelfde waarde in CITATION.cff (regel `doi:`);
+# code/tekst/zenodo_metadata.py waarschuwt als de twee niet overeenkomen. -->
+colofon: |
+  Dit rapport werd opgesteld in opdracht van de vzw Academie voor de KMO, Zelfstandigen en Vrije Beroepen. De inhoud valt uitsluitend onder de verantwoordelijkheid van de auteurs.
+
+  Contact: Wim Van Lancker, wim.vanlancker@kuleuven.be
+
+  Alle cijfers, figuren en tabellen in dit rapport zijn reproduceerbaar met de code en de gegevens gearchiveerd op Zenodo: [VUL-IN-DOI](https://doi.org/VUL-IN-DOI). De tekst, de figuren en de tabellen staan onder een Creative Commons Naamsvermelding 4.0-licentie (CC BY 4.0), de code onder een MIT-licentie. De onderliggende gegevens blijven onder de voorwaarden van hun oorspronkelijke bron.
+---
+
+<!--
+VOLGORDE VAN HET RAPPORT
+Elk hoofdstuk staat in een apart markdownbestand in report/sections/.
+Een hoofdstuk dat nog niet herwerkt is, staat hier (nog) niet in.
+
+Afspraken voor de markdown in sections/ (zie ook report/LEESMIJ.md):
+- '#' is een hoofdstuk, '##' een paragraaf (6.1), '###' een subparagraaf.
+- Een figuur is: een alinea '**Figuur N.** bijschrift', dan de afbeelding,
+  dan 'Noot: ...' en 'Bron: ...'. De filter report/_filters/figuren.lua maakt daar
+  één blok van met automatische nummering.
+- Voetnootlabels moeten uniek zijn over het hele rapport.
+-->
+
+{{< pagebreak >}}
+
+<!-- wijziging: nieuw | Lijst van afkortingen (22 september 2026, op vraag van Wim), ongenummerd zoals de referenties. -->
+
+```{=typst}
+#heading(level: 1, numbering: none)[Lijst van afkortingen]
+```
+
+{{< include report/sections/00_afkortingen.md >}}
+
+{{< pagebreak >}}
+
+<!-- wijziging: nieuw | Lijst van figuren en lijst van tabellen (22 september 2026, op vraag van Wim), ongenummerd. De lijsten worden opgebouwd door #lijst_van in report/_typst/typst-template.typ, met paginanummers en klikbare regels; bijlagefiguren en -tabellen staan erbij. -->
+
+```{=typst}
+#heading(level: 1, numbering: none)[Lijst van figuren]
+#lijst_van("Figuur")
+#heading(level: 1, numbering: none)[Lijst van tabellen]
+#lijst_van("Tabel")
+```
+
+{{< pagebreak >}}
+
+{{< include report/sections/01_inleiding.md >}}
+
+{{< include report/sections/02_context.md >}}
+
+{{< include report/sections/03_solidariteit.md >}}
+
+{{< include report/sections/04_sociaal_statuut.md >}}
+
+{{< include report/sections/05_methodologie.md >}}
+
+# Resultaten
+
+{{< include report/sections/06-1_macro.md >}}
+
+{{< include report/sections/06-2_micro.md >}}
+
+{{< include report/sections/07_conclusie.md >}}
+
+<!-- wijziging: opmaak | 22 september 2026, opmerking Wim: de referentielijst springt hangend in (de naam links uitgelijnd, de vervolgregels ingesprongen), zoals APA voorschrijft. De set-regels gelden vanaf hier tot aan de bijlagen, waar ze weer op de waarden van de lopende tekst gezet worden. -->
+
+```{=typst}
+#heading(level: 1, numbering: none)[Referenties]
+#set par(justify: false, hanging-indent: 1.4em, first-line-indent: 0pt, spacing: 0.8em)
+```
+
+{{< include report/sections/referenties.md >}}
+
+{{< pagebreak >}}
+
+```{=typst}
+// Terug naar de opmaak van de lopende tekst na de referentielijst
+#set par(justify: true, hanging-indent: 0pt, spacing: 1.1em)
+// Bijlagen: geen nummering meer, de titels dragen hun eigen nummer ("Bijlage 6")
+#set heading(numbering: none)
+#heading(level: 1)[Bijlagen]
+```
+
+{{< include report/sections/bijlage1_hervormingen.md >}}
+
+{{< include report/sections/bijlage2_populaties.md >}}
+
+{{< include report/sections/bijlage3_viren.md >}}
+
+{{< include report/sections/bijlage4-5_macro.md >}}
+
+{{< include report/sections/bijlage6_scenario_rechtsvorm.md >}}
+
+{{< include report/sections/bijlage7_micro_koppels.md >}}

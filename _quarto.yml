@@ -1,0 +1,35 @@
+# Quarto-project voor het rapport.
+#
+#   quarto render                 ->  output/rapport/rapport.pdf
+#
+# Het rapport zelf is rapport.qmd (in de root): dat bestand bevat enkel de metadata
+# (titel, auteurs, datum) en de volgorde van de hoofdstukken. De tekst staat in
+# report/sections/*.md (gegenereerd uit report/templates/ door de Python-code).
+
+project:
+  type: default
+  render:
+    - rapport.qmd
+  output-dir: output/rapport
+
+lang: nl
+number-sections: true
+fig-cap-location: top
+
+format:
+  typst:
+    papersize: a4
+    toc: true
+    toc-depth: 2
+    toc-title: Inhoudsopgave
+    font-paths: [report/_fonts]
+    template-partials:
+      - report/_typst/typst-template.typ
+      - report/_typst/typst-show.typ
+    filters:
+      # pre-ast: de filter draait vóór Quarto figuren herkent en nummert
+      - path: report/_filters/figuren.lua
+        at: pre-ast
+      # tabellen: bijschrift, tabel, Noot en Bron als één blok, met bruikbare kolombreedtes
+      - path: report/_filters/tabellen.lua
+        at: pre-ast

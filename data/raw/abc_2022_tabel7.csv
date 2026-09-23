@@ -1,0 +1,6 @@
+schijf,inkomen_van,inkomen_tot,aandeel_personen,gem_inkomen,gem_bijdrage,gem_uitgaven,aandeel_inkomensmassa,aandeel_bijdragemassa,aandeel_uitgavenmassa
+onder_minimumdrempel,0,14042,0.344,5559,2879,6686,0.066,0.169,0.280
+minimumdrempel_tussengrens,14042,60638,0.575,31106,6377,8179,0.620,0.623,0.571
+degressieve_schijf,60638,89361,0.046,71953,14033,14742,0.114,0.109,0.082
+boven_plafond,89361,,0.035,162995,16498,15690,0.199,0.099,0.067
+totaal,,,1.000,28813,5878,8229,1.000,1.000,1.000

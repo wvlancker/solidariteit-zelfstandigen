@@ -1,0 +1,64 @@
+# ===========================================================================
+# Wat niet in de publieke repository terechtkomt. De volledige verantwoording
+# staat in DATA.md; `python code/publicatie_check.py` toont wat er wel in zit.
+# ===========================================================================
+
+# --- Brondata die we niet mogen doorgeven -----------------------------------
+# Statbel, administratief gestandaardiseerd beschikbaar inkomen 2023 (histogram)
+data/restricted/
+# Viren/EUROMOD: het werkboek met de simulaties en het correctieblad pensioenen.
+# De RESULTATEN per inkomenspositie worden wel gedeeld (data/raw/micro_*.csv,
+# data/sources/micro/unizo.dta), zodat elke tabel en figuur reproduceerbaar blijft.
+data/sources/micro/unizo_results_final.xlsx
+data/sources/micro/correctie_pensioenen.xlsx
+# ABC-verslag 2022/04: publicatie van het Algemeen Beheerscomité, geen eigen werk.
+# De overgenomen tabellen staan wel in data/raw/abc_2022_tabel*.csv.
+data/sources/abc/*.pdf
+
+# --- Afgeleid van microdata: bevat aantallen waarnemingen per cel -----------
+# BE-SILC 2024, uitvoer van de Stata-stap m00. De publieke afgeleiden
+# data/raw/micro_silc_gewichten.csv (gewichten) en micro_silc_groepen.csv
+# (aantallen per groep, niet per cel) volstaan om alles te reproduceren.
+data/raw/kakwani_gewichten_besilc2024.csv
+data/raw/kakwani_gewichten_eq_besilc2024.csv
+data/raw/*.log
+
+# --- Werkdocumenten, geen publicatiemateriaal -------------------------------
+# archief van de oorspronkelijke projectmap
+archive/
+# omzetting van de Word-versie, enkel gebruikt voor de tekstvergelijkingen
+report/import/
+# tekstvergelijkingen en leesversies voor de auteurs
+output/tekst/
+# werkafspraken met de assistent
+CLAUDE.md
+# interne kwaliteitscontrole op het oude werkboek en de conceptversie van het rapport.
+# Die documenten bevatten cijfers die intussen vervangen zijn; zie DATA.md, punt 2.5.
+ERRATA.md
+code/macro/04_reconcile.py
+output/checks/rapportcijfers.csv
+output/checks/reconciliatie_werkboek.csv
+# losse bestanden die tijdens het werk in de projectmap belandden (oudere PDF's, notities, media)
+Claude outputs/
+
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Office-tijdelijke bestanden --------------------------------------------
+~$*
+
+# --- Quarto -----------------------------------------------------------------
+.quarto/
+/.quarto/
+_freeze/
+# kopie van de figuren die Quarto naast de PDF zet
+output/rapport/output/
+rapport.typ
+**/*.quarto_ipynb
+
+# --- Systeem ----------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini

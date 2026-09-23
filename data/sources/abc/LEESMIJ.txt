@@ -1,0 +1,13 @@
+ABC-verslag 2022/04 over solidariteit in het sociaal statuut der zelfstandigen
+
+Het PDF-bestand zelf (abc_verslag_2022-04_solidariteit.pdf) staat niet in deze repository:
+het is een publicatie van het Algemeen Beheerscomite voor het sociaal statuut der
+zelfstandigen, geen eigen werk. Zie DATA.md, punt 2.4.
+
+De twee tabellen die het rapport gebruikt, staan wel in de repository:
+  data/raw/abc_2022_tabel2.csv        Tabel 2 van het verslag
+  data/raw/abc_2022_tabel7.csv        Tabel 7 van het verslag
+  data/raw/abc_2022_tabel7_bron.md    waar in het verslag elk getal staat
+
+Het verslag is opvraagbaar bij het Algemeen Beheerscomite (RSVZ). De volledige verwijzing
+staat in de referentielijst van het rapport.

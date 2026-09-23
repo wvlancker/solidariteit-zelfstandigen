@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+title: "Hoe solidair is de sociale zekerheid voor zelfstandigen?"
+message: >-
+  Gebruikt u deze repository of het rapport, verwijs er dan naar met de gegevens hieronder.
+type: report
+authors:
+  - given-names: Wim
+    family-names: Van Lancker
+    email: wim.vanlancker@kuleuven.be
+    affiliation: "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+    # orcid: "https://orcid.org/VUL-IN"   (optioneel, voor elke auteur)
+  - given-names: Julie
+    family-names: Vinck
+    affiliation: "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+  - given-names: Willem
+    family-names: Goris
+    affiliation: "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+  - given-names: Toon
+    family-names: Van Havere
+    affiliation: "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+abstract: >-
+  Onderzoeksrapport in opdracht van de vzw Academie voor de KMO, Zelfstandigen en Vrije
+  Beroepen (UNIZO) over de solidariteit in de sociale zekerheid voor zelfstandigen: de
+  beroepssolidariteit en de nationale solidariteit op macroniveau (2003-2023) en de
+  equivalentie, vervanging en garantie op microniveau, op basis van microsimulaties.
+  De repository bevat alle code, gegevens en afgeleiden om elke figuur, tabel en bijlage
+  opnieuw te maken.
+keywords:
+  - sociale zekerheid
+  - zelfstandigen
+  - solidariteit
+  - herverdeling
+  - microsimulatie
+  - Belgie
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+repository-code: "https://github.com/wvlancker/solidariteit-zelfstandigen"
+version: "0.1.0"
+date-released: "2026-09-23"
+# DOI: Zenodo maakt er één aan zodra de repository gekoppeld en een release gepubliceerd is.
+# Daarom is v0.1.0 een technische release: enkel om het DOI te verkrijgen. Activeer daarna de
+# regel hieronder met het CONCEPT-DOI (het laagste nummer, dat altijd naar de nieuwste versie
+# verwijst), zet dezelfde waarde in het colofon van rapport.qmd, en draai run_all opnieuw.
+# De lopende tekst haalt het nummer hier op via de plaatshouder {{doi}}.
+# doi: "10.5281/zenodo.VUL-IN"
+references:
+  - type: software
+    title: "Code van deze repository"
+    license: MIT
+    notes: >-
+      Voor de code geldt de MIT-licentie (LICENSE); voor de tekst, figuren en tabellen
+      CC BY 4.0 (LICENSE-tekst-en-figuren). Voor de gegevens gelden de voorwaarden van de
+      oorspronkelijke bronnen, zie DATA.md.

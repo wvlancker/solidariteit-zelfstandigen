@@ -1,0 +1,14 @@
+sleutel,waarde,omschrijving
+n_extra,342532,extra vennootschappen 2003-2023
+vb_per_venn_2023,409.5238778,gemiddelde vennootschapsbijdrage per vennootschap 2023 (euro)
+omslag_sx,1997.677453,omslagpunt s*X (euro)
+ratio_2023,0.5715825667,"beroepssolidariteit zelfstandigen 2023 (fractie, FOD SZ-totalen)"
+uitgaven_1pp_eur,93315020.07,1 procentpunt beroepssolidariteit 2023 in euro
+delta_bedrijfsleiders_2014_2021,73179,"HRF 2024 tabel 8, AJ2015-AJ2022"
+delta_venn_2014_2021,140737,"RSVZ, extra vennootschappen 2014-2021"
+bl_per_venn,0.5199698729,extra bedrijfsleiders per extra vennootschap
+tarief_1,0.205,bijdragevoet tot eerste plafond
+plafond_1,72810.94,eerste plafond 2024
+plafond_2,107300.3,tweede plafond 2024
+vb_typegeval,387.34,"vennootschapsbijdrage 2024, laag bedrag (typegevallen)"
+min_bezoldiging,45000,minimumbezoldiging verlaagd VenB-tarief

@@ -1,0 +1,44 @@
+{
+  "title": "Hoe solidair is de sociale zekerheid voor zelfstandigen?",
+  "description": "Onderzoeksrapport in opdracht van de vzw Academie voor de KMO, Zelfstandigen en Vrije Beroepen (UNIZO) over de solidariteit in de sociale zekerheid voor zelfstandigen: de beroepssolidariteit en de nationale solidariteit op macroniveau (2003-2023) en de equivalentie, vervanging en garantie op microniveau, op basis van microsimulaties. De repository bevat alle code, gegevens en afgeleiden om elke figuur, tabel en bijlage opnieuw te maken.",
+  "creators": [
+    {
+      "name": "Van Lancker, Wim",
+      "affiliation": "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+    },
+    {
+      "name": "Vinck, Julie",
+      "affiliation": "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+    },
+    {
+      "name": "Goris, Willem",
+      "affiliation": "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+    },
+    {
+      "name": "Van Havere, Toon",
+      "affiliation": "KU Leuven, Research group on Social, Political and Population Change (ReSPOND)"
+    }
+  ],
+  "upload_type": "publication",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "nld",
+  "keywords": [
+    "sociale zekerheid",
+    "zelfstandigen",
+    "solidariteit",
+    "herverdeling",
+    "microsimulatie",
+    "Belgie"
+  ],
+  "publication_type": "report",
+  "version": "0.1.0",
+  "publication_date": "2026-09-23",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/wvlancker/solidariteit-zelfstandigen",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

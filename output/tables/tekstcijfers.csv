@@ -1,0 +1,731 @@
+sleutel,waarde_exact,weergave,omschrijving
+doi,,VUL-IN-DOI,DOI van het gearchiveerde databestand op Zenodo
+z1_ratio_2003,64.47440966,64%,beroepssolidariteit Z1 in 2003
+z1_ratio_2014,58.17281307,58%,beroepssolidariteit Z1 in 2014
+z1_ratio_2015,69.15289654,69%,beroepssolidariteit Z1 in 2015
+z1_ratio_2018,64.67168815,65%,beroepssolidariteit Z1 in 2018
+z1_ratio_2019,63.49040066,63%,beroepssolidariteit Z1 in 2019
+z1_ratio_2020,39.30757156,39%,beroepssolidariteit Z1 in 2020
+z1_ratio_2022,50.98519705,51%,beroepssolidariteit Z1 in 2022
+z1_ratio_2023,57.15825667,57%,beroepssolidariteit Z1 in 2023
+z1_ratio_pp_2003_2023,-7.316152998,"-7,3 procentpunt",verandering beroepssolidariteit Z1 2003-2023
+z1_bijdr_2003_2023,7.369728334,+7%,reële bijdragen per capita Z1 2003-2023
+z1_uitg_2003_2023,21.11285847,+21%,reële uitgaven per capita Z1 2003-2023
+z1_ratio_pp_2003_2014,-6.30159659,"-6,3 procentpunt",verandering beroepssolidariteit Z1 2003-2014
+z1_bijdr_2003_2014,18.77684873,+19%,reële bijdragen per capita Z1 2003-2014
+z1_uitg_2003_2014,31.64340521,+32%,reële uitgaven per capita Z1 2003-2014
+z1_ratio_pp_2014_2015,10.98008346,"+11,0 procentpunt",verandering beroepssolidariteit Z1 2014-2015
+z1_bijdr_2014_2015,3.784199583,+4%,reële bijdragen per capita Z1 2014-2015
+z1_uitg_2014_2015,-12.69463544,-13%,reële uitgaven per capita Z1 2014-2015
+z1_ratio_pp_2015_2018,-4.481208384,"-4,5 procentpunt",verandering beroepssolidariteit Z1 2015-2018
+z1_bijdr_2015_2018,-4.988567053,-5%,reële bijdragen per capita Z1 2015-2018
+z1_uitg_2015_2018,1.594932498,+2%,reële uitgaven per capita Z1 2015-2018
+z1_ratio_pp_2015_2019,-5.66249588,"-5,7 procentpunt",verandering beroepssolidariteit Z1 2015-2019
+z1_bijdr_2015_2019,-6.771971702,-7%,reële bijdragen per capita Z1 2015-2019
+z1_uitg_2015_2019,1.542723444,+2%,reële uitgaven per capita Z1 2015-2019
+z1_ratio_pp_2018_2019,-1.181287496,"-1,2 procentpunt",verandering beroepssolidariteit Z1 2018-2019
+z1_bijdr_2018_2019,-1.877042156,-2%,reële bijdragen per capita Z1 2018-2019
+z1_uitg_2018_2019,-0.05138942739,0%,reële uitgaven per capita Z1 2018-2019
+z1_ratio_pp_2019_2020,-24.1828291,"-24,2 procentpunt",verandering beroepssolidariteit Z1 2019-2020
+z1_bijdr_2019_2020,-10.13561113,-10%,reële bijdragen per capita Z1 2019-2020
+z1_uitg_2019_2020,45.15081518,+45%,reële uitgaven per capita Z1 2019-2020
+z1_ratio_pp_2019_2022,-12.50520361,"-12,5 procentpunt",verandering beroepssolidariteit Z1 2019-2022
+z1_bijdr_2019_2022,-13.14006931,-13%,reële bijdragen per capita Z1 2019-2022
+z1_uitg_2019_2022,8.164175479,+8%,reële uitgaven per capita Z1 2019-2022
+z1_ratio_pp_2019_2023,-6.332143991,"-6,3 procentpunt",verandering beroepssolidariteit Z1 2019-2023
+z1_bijdr_2019_2023,-6.573018873,-7%,reële bijdragen per capita Z1 2019-2023
+z1_uitg_2019_2023,3.777071065,+4%,reële uitgaven per capita Z1 2019-2023
+z1_ratio_pp_2015_2023,-11.99463987,"-12,0 procentpunt",verandering beroepssolidariteit Z1 2015-2023
+z1_bijdr_2015_2023,-12.8998676,-13%,reële bijdragen per capita Z1 2015-2023
+z1_uitg_2015_2023,5.37806427,+5%,reële uitgaven per capita Z1 2015-2023
+z1_ratio_pp_2022_2023,6.173059614,"+6,2 procentpunt",verandering beroepssolidariteit Z1 2022-2023
+z1_bijdr_2022_2023,7.560506188,+8%,reële bijdragen per capita Z1 2022-2023
+z1_uitg_2022_2023,-4.055968064,-4%,reële uitgaven per capita Z1 2022-2023
+z1_ratio_rel_2003_2023,-11.34737493,-11%,relatieve verandering ratio Z1 2003-2023
+z2_ratio_2003,64.47440966,64%,beroepssolidariteit Z2 in 2003
+z2_ratio_2014,58.17281307,58%,beroepssolidariteit Z2 in 2014
+z2_ratio_2015,69.15289654,69%,beroepssolidariteit Z2 in 2015
+z2_ratio_2018,64.67168815,65%,beroepssolidariteit Z2 in 2018
+z2_ratio_2019,63.49040066,63%,beroepssolidariteit Z2 in 2019
+z2_ratio_2020,39.30757156,39%,beroepssolidariteit Z2 in 2020
+z2_ratio_2022,50.98519705,51%,beroepssolidariteit Z2 in 2022
+z2_ratio_2023,57.15825667,57%,beroepssolidariteit Z2 in 2023
+z2_ratio_pp_2003_2023,-7.316152998,"-7,3 procentpunt",verandering beroepssolidariteit Z2 2003-2023
+z2_bijdr_2003_2023,-3.005593813,-3%,reële bijdragen per capita Z2 2003-2023
+z2_uitg_2003_2023,9.409513943,+9%,reële uitgaven per capita Z2 2003-2023
+z2_ratio_pp_2003_2014,-6.30159659,"-6,3 procentpunt",verandering beroepssolidariteit Z2 2003-2014
+z2_bijdr_2003_2014,12.31032675,+12%,reële bijdragen per capita Z2 2003-2014
+z2_uitg_2003_2014,24.47639428,+24%,reële uitgaven per capita Z2 2003-2014
+z2_ratio_pp_2014_2015,10.98008346,"+11,0 procentpunt",verandering beroepssolidariteit Z2 2014-2015
+z2_bijdr_2014_2015,3.773598424,+4%,reële bijdragen per capita Z2 2014-2015
+z2_uitg_2014_2015,-12.70355335,-13%,reële uitgaven per capita Z2 2014-2015
+z2_ratio_pp_2015_2018,-4.481208384,"-4,5 procentpunt",verandering beroepssolidariteit Z2 2015-2018
+z2_bijdr_2015_2018,-6.253654206,-6%,reële bijdragen per capita Z2 2015-2018
+z2_uitg_2015_2018,0.2421853609,0%,reële uitgaven per capita Z2 2015-2018
+z2_ratio_pp_2015_2019,-5.66249588,"-5,7 procentpunt",verandering beroepssolidariteit Z2 2015-2019
+z2_bijdr_2015_2019,-8.450452452,-8%,reële bijdragen per capita Z2 2015-2019
+z2_uitg_2015_2019,-0.285455374,0%,reële uitgaven per capita Z2 2015-2019
+z2_ratio_pp_2018_2019,-1.181287496,"-1,2 procentpunt",verandering beroepssolidariteit Z2 2018-2019
+z2_bijdr_2018_2019,-2.343342802,-2%,reële bijdragen per capita Z2 2018-2019
+z2_uitg_2018_2019,-0.5263659536,-1%,reële uitgaven per capita Z2 2018-2019
+z2_ratio_pp_2019_2020,-24.1828291,"-24,2 procentpunt",verandering beroepssolidariteit Z2 2019-2020
+z2_bijdr_2019_2020,-10.61887163,-11%,reële bijdragen per capita Z2 2019-2020
+z2_uitg_2019_2020,44.37024284,+44%,reële uitgaven per capita Z2 2019-2020
+z2_ratio_pp_2019_2022,-12.50520361,"-12,5 procentpunt",verandering beroepssolidariteit Z2 2019-2022
+z2_bijdr_2019_2022,-14.64012686,-15%,reële bijdragen per capita Z2 2019-2022
+z2_uitg_2019_2022,6.296196921,+6%,reële uitgaven per capita Z2 2019-2022
+z2_ratio_pp_2019_2023,-6.332143991,"-6,3 procentpunt",verandering beroepssolidariteit Z2 2019-2023
+z2_bijdr_2019_2023,-9.095806306,-9%,reële bijdragen per capita Z2 2019-2023
+z2_uitg_2019_2023,0.9748025176,+1%,reële uitgaven per capita Z2 2019-2023
+z2_ratio_pp_2015_2023,-11.99463987,"-12,0 procentpunt",verandering beroepssolidariteit Z2 2015-2023
+z2_bijdr_2015_2023,-16.77762197,-17%,reële bijdragen per capita Z2 2015-2023
+z2_uitg_2015_2023,0.6865645174,+1%,reële uitgaven per capita Z2 2015-2023
+z2_ratio_pp_2022_2023,6.173059614,"+6,2 procentpunt",verandering beroepssolidariteit Z2 2022-2023
+z2_bijdr_2022_2023,6.495230543,+6%,reële bijdragen per capita Z2 2022-2023
+z2_uitg_2022_2023,-5.006194537,-5%,reële uitgaven per capita Z2 2022-2023
+z2_ratio_rel_2003_2023,-11.34737493,-11%,relatieve verandering ratio Z2 2003-2023
+w1_ratio_2003,70.98648308,71%,beroepssolidariteit W1 in 2003
+w1_ratio_2014,62.60964918,63%,beroepssolidariteit W1 in 2014
+w1_ratio_2015,75.36636674,75%,beroepssolidariteit W1 in 2015
+w1_ratio_2018,70.44724396,70%,beroepssolidariteit W1 in 2018
+w1_ratio_2019,70.57192621,71%,beroepssolidariteit W1 in 2019
+w1_ratio_2020,62.55176037,63%,beroepssolidariteit W1 in 2020
+w1_ratio_2022,67.75793686,68%,beroepssolidariteit W1 in 2022
+w1_ratio_2023,67.34314144,67%,beroepssolidariteit W1 in 2023
+w1_ratio_pp_2003_2023,-3.643341635,"-3,6 procentpunt",verandering beroepssolidariteit W1 2003-2023
+w1_bijdr_2003_2023,3.5821049,+4%,reële bijdragen per capita W1 2003-2023
+w1_uitg_2003_2023,9.186016261,+9%,reële uitgaven per capita W1 2003-2023
+w1_ratio_pp_2003_2014,-8.376833898,"-8,4 procentpunt",verandering beroepssolidariteit W1 2003-2014
+w1_bijdr_2003_2014,3.239923668,+3%,reële bijdragen per capita W1 2003-2014
+w1_uitg_2003_2014,17.05286949,+17%,reële uitgaven per capita W1 2003-2014
+w1_ratio_pp_2014_2015,12.75671756,"+12,8 procentpunt",verandering beroepssolidariteit W1 2014-2015
+w1_bijdr_2014_2015,2.636985883,+3%,reële bijdragen per capita W1 2014-2015
+w1_uitg_2014_2015,-14.73563133,-15%,reële uitgaven per capita W1 2014-2015
+w1_ratio_pp_2015_2018,-4.919122775,"-4,9 procentpunt",verandering beroepssolidariteit W1 2015-2018
+w1_bijdr_2015_2018,-5.395841883,-5%,reële bijdragen per capita W1 2015-2018
+w1_uitg_2015_2018,1.21008679,+1%,reële uitgaven per capita W1 2015-2018
+w1_ratio_pp_2015_2019,-4.794440528,"-4,8 procentpunt",verandering beroepssolidariteit W1 2015-2019
+w1_bijdr_2015_2019,-4.684989695,-5%,reële bijdragen per capita W1 2015-2019
+w1_uitg_2015_2019,1.790420187,+2%,reële uitgaven per capita W1 2015-2019
+w1_ratio_pp_2018_2019,0.1246822468,"+0,1 procentpunt",verandering beroepssolidariteit W1 2018-2019
+w1_bijdr_2018_2019,0.7513963472,+1%,reële bijdragen per capita W1 2018-2019
+w1_uitg_2018_2019,0.5733948224,+1%,reële uitgaven per capita W1 2018-2019
+w1_ratio_pp_2019_2020,-8.020165844,"-8,0 procentpunt",verandering beroepssolidariteit W1 2019-2020
+w1_bijdr_2019_2020,-2.113694476,-2%,reële bijdragen per capita W1 2019-2020
+w1_uitg_2019_2020,10.43694198,+10%,reële uitgaven per capita W1 2019-2020
+w1_ratio_pp_2019_2022,-2.813989355,"-2,8 procentpunt",verandering beroepssolidariteit W1 2019-2022
+w1_bijdr_2019_2022,-2.522592455,-3%,reële bijdragen per capita W1 2019-2022
+w1_uitg_2019_2022,1.525647499,+2%,reële uitgaven per capita W1 2019-2022
+w1_ratio_pp_2019_2023,-3.228784766,"-3,2 procentpunt",verandering beroepssolidariteit W1 2019-2023
+w1_bijdr_2019_2023,2.55854915,+3%,reële bijdragen per capita W1 2019-2023
+w1_uitg_2019_2023,7.475745971,+7%,reële uitgaven per capita W1 2019-2023
+w1_ratio_pp_2015_2023,-8.023225294,"-8,0 procentpunt",verandering beroepssolidariteit W1 2015-2023
+w1_bijdr_2015_2023,-2.246308309,-2%,reële bijdragen per capita W1 2015-2023
+w1_uitg_2015_2023,9.400013424,+9%,reële uitgaven per capita W1 2015-2023
+w1_ratio_pp_2022_2023,-0.4147954105,"-0,4 procentpunt",verandering beroepssolidariteit W1 2022-2023
+w1_bijdr_2022_2023,5.212635146,+5%,reële bijdragen per capita W1 2022-2023
+w1_uitg_2022_2023,5.860685077,+6%,reële uitgaven per capita W1 2022-2023
+w1_ratio_rel_2003_2023,-5.132444202,-5%,relatieve verandering ratio W1 2003-2023
+w2_ratio_2003,70.98648308,71%,beroepssolidariteit W2 in 2003
+w2_ratio_2014,62.60964918,63%,beroepssolidariteit W2 in 2014
+w2_ratio_2015,75.36636674,75%,beroepssolidariteit W2 in 2015
+w2_ratio_2018,70.44724396,70%,beroepssolidariteit W2 in 2018
+w2_ratio_2019,70.57192621,71%,beroepssolidariteit W2 in 2019
+w2_ratio_2020,62.55176037,63%,beroepssolidariteit W2 in 2020
+w2_ratio_2022,67.75793686,68%,beroepssolidariteit W2 in 2022
+w2_ratio_2023,67.34314144,67%,beroepssolidariteit W2 in 2023
+w2_ratio_pp_2003_2023,-3.643341635,"-3,6 procentpunt",verandering beroepssolidariteit W2 2003-2023
+w2_bijdr_2003_2023,3.442278677,+3%,reële bijdragen per capita W2 2003-2023
+w2_uitg_2003_2023,9.038625278,+9%,reële uitgaven per capita W2 2003-2023
+w2_ratio_pp_2003_2014,-8.376833898,"-8,4 procentpunt",verandering beroepssolidariteit W2 2003-2014
+w2_bijdr_2003_2014,3.224279016,+3%,reële bijdragen per capita W2 2003-2014
+w2_uitg_2003_2014,17.03513167,+17%,reële uitgaven per capita W2 2003-2014
+w2_ratio_pp_2014_2015,12.75671756,"+12,8 procentpunt",verandering beroepssolidariteit W2 2014-2015
+w2_bijdr_2014_2015,2.621458533,+3%,reële bijdragen per capita W2 2014-2015
+w2_uitg_2014_2015,-14.74853047,-15%,reële uitgaven per capita W2 2014-2015
+w2_ratio_pp_2015_2018,-4.919122775,"-4,9 procentpunt",verandering beroepssolidariteit W2 2015-2018
+w2_bijdr_2015_2018,-5.426747766,-5%,reële bijdragen per capita W2 2015-2018
+w2_uitg_2015_2018,1.177022841,+1%,reële uitgaven per capita W2 2015-2018
+w2_ratio_pp_2015_2019,-4.794440528,"-4,8 procentpunt",verandering beroepssolidariteit W2 2015-2019
+w2_bijdr_2015_2019,-4.728794691,-5%,reële bijdragen per capita W2 2015-2019
+w2_uitg_2015_2019,1.743639214,+2%,reële uitgaven per capita W2 2015-2019
+w2_ratio_pp_2018_2019,0.1246822468,"+0,1 procentpunt",verandering beroepssolidariteit W2 2018-2019
+w2_bijdr_2018_2019,0.7380026157,+1%,reële bijdragen per capita W2 2018-2019
+w2_uitg_2018_2019,0.5600247541,+1%,reële uitgaven per capita W2 2018-2019
+w2_ratio_pp_2019_2020,-8.020165844,"-8,0 procentpunt",verandering beroepssolidariteit W2 2019-2020
+w2_bijdr_2019_2020,-2.122577807,-2%,reële bijdragen per capita W2 2019-2020
+w2_uitg_2019_2020,10.42691966,+10%,reële uitgaven per capita W2 2019-2020
+w2_ratio_pp_2019_2022,-2.813989355,"-2,8 procentpunt",verandering beroepssolidariteit W2 2019-2022
+w2_bijdr_2019_2022,-2.570140913,-3%,reële bijdragen per capita W2 2019-2022
+w2_uitg_2019_2022,1.476124353,+1%,reële uitgaven per capita W2 2019-2022
+w2_ratio_pp_2019_2023,-3.228784766,"-3,2 procentpunt",verandering beroepssolidariteit W2 2019-2023
+w2_bijdr_2019_2023,2.498232906,+2%,reële bijdragen per capita W2 2019-2023
+w2_uitg_2019_2023,7.412537849,+7%,reële uitgaven per capita W2 2019-2023
+w2_ratio_pp_2015_2023,-8.023225294,"-8,0 procentpunt",verandering beroepssolidariteit W2 2015-2023
+w2_bijdr_2015_2023,-2.34869809,-2%,reële bijdragen per capita W2 2015-2023
+w2_uitg_2015_2023,9.28542498,+9%,reële uitgaven per capita W2 2015-2023
+w2_ratio_pp_2022_2023,-0.4147954105,"-0,4 procentpunt",verandering beroepssolidariteit W2 2022-2023
+w2_bijdr_2022_2023,5.202074462,+5%,reële bijdragen per capita W2 2022-2023
+w2_uitg_2022_2023,5.850059346,+6%,reële uitgaven per capita W2 2022-2023
+w2_ratio_rel_2003_2023,-5.132444202,-5%,relatieve verandering ratio W2 2003-2023
+uitg_groei_factor_z_w,2.298369377,"2,3","uitgavengroei p.c. Z1 gedeeld door W1, 2003-2023"
+taxshift_voet_rel,-6.818181818,"-6,8%","mechanische daling bijdrage bij voet 22% -> 20,5%"
+z_gezinsbijslag_2013,0.4471249948,"€0,45 miljard",gezinsbijslag zelfstandigen 2013 (nominaal)
+z_gezinsbijslag_aandeel_2013,6.882697483,"6,9%",gezinsbijslag in % van uitgaven zelfstandigen 2013
+z_uitgaven_daling_2014_2015,0.710380144,"€0,7 miljard",daling nominale uitgaven zelfstandigen 2014-2015
+z_gezinsbijslag_2014,0.264774004,"€0,26 miljard",gezinsbijslag zelfstandigen 2014
+z_riziv_daling_2014_2015,0.258545308,"€0,26 miljard",daling overdrachten RIZIV zelfstandigen 2014-2015
+w_gezinsbijslag_2013,4.660831,"€4,7 miljard",gezinsbijslag werknemers 2013 (nominaal)
+w_gezinsbijslag_aandeel_2013,6.6827895,"6,7%",gezinsbijslag in % van uitgaven werknemers 2013
+w_uitgaven_daling_2014_2015,10.00740794,"€10,0 miljard",daling nominale uitgaven werknemers 2014-2015
+w_gezinsbijslag_2014,5.275945,"€5,3 miljard",gezinsbijslag werknemers 2014
+w_riziv_daling_2014_2015,2.890761,"€2,9 miljard",daling overdrachten RIZIV werknemers 2014-2015
+vb_nom_2003,271.0672848,€271,"vennootschapsbijdrage per vennootschap, nominaal, 2003"
+vb_nom_2004,306.529556,€307,"vennootschapsbijdrage per vennootschap, nominaal, 2004"
+vb_nom_2005,458.6083003,€459,"vennootschapsbijdrage per vennootschap, nominaal, 2005"
+vb_nom_2006,409.6612358,€410,"vennootschapsbijdrage per vennootschap, nominaal, 2006"
+vb_nom_2019,409.6168683,€410,"vennootschapsbijdrage per vennootschap, nominaal, 2019"
+vb_nom_2023,409.5238778,€410,"vennootschapsbijdrage per vennootschap, nominaal, 2023"
+vb_nom_min_2006_2019,403.0044679,€403,laagste nominale bijdrage per vennootschap 2006-2019
+vb_nom_max_2006_2019,422.198028,€422,hoogste nominale bijdrage per vennootschap 2006-2019
+vb_reeel_2006,632.7991294,€633,"bijdrage per vennootschap 2006, prijzen 2024"
+vb_reeel_2023,422.3972256,€422,"bijdrage per vennootschap 2023, prijzen 2024"
+vb_reeel_2006_2023,-33.24939844,-33%,reële verandering bijdrage per vennootschap 2006-2023
+vb_reeel_2006_2019,-21.42788907,"-21,4%",reële verandering bijdrage per vennootschap 2006-2019
+inflatie_erosie_2006_2019,-21.41937856,"-21,4%",reële waardeverandering van een bevroren nominaal bedrag 2006-2019
+aantal_venn_2003_2023,100.6251395,+101%,groei aantal vennootschappen 2003-2023
+aantal_venn_2006_2023,82.90544268,+83%,groei aantal vennootschappen 2006-2023
+aantal_venn_2006_2019,51.52899711,+52%,groei aantal vennootschappen 2006-2019
+vb_aandeel_2003,3.905302104,"3,9%",aandeel vennootschapsbijdragen in bijdragen 2003
+vb_aandeel_2005,6.257326295,"6,3%",aandeel vennootschapsbijdragen in bijdragen 2005
+vb_aandeel_2023,5.243589768,"5,2%",aandeel vennootschapsbijdragen in bijdragen 2023
+vb_comp_2006,3.534455355,"3,5%",vennootschapsbijdragen in % van uitgaven 2006
+vb_comp_2023,2.997144498,"3,0%",vennootschapsbijdragen in % van uitgaven 2023
+vb_comp_idx_2023,4.490063652,"4,5%",idem 2023 bij indexering van het bedrag van 2006
+vb_comp_pp,-0.5373108568,"-0,5 procentpunt",verandering component 2006-2023
+vb_niet_indexering_pp,-1.492919154,"-1,5 procentpunt",effect niet-indexering op de ratio 2023
+ratio_z1_pp_2006_2023,-6.087891027,"-6,1 procentpunt",verandering beroepssolidariteit Z1 2006-2023
+vb_comp_deel_daling,8.825894787,9%,deel van de daling 2006-2023
+vb_idx_deel_daling,24.52276407,25%,niet-indexering als deel van de daling
+vb_gederfd_2023,0.1393117808,"€0,14 miljard",gederfde opbrengst 2023 bij indexering sinds 2006 (nominaal)
+herstel_2006_mio,568.0916734,568,bijkomende bijdragen 2023 nodig voor ratio van 2006 (miljoen euro)
+vb_gederfd_2023_mio,139.3117808,139,gederfde opbrengst 2023 bij indexering sinds 2006 (miljoen euro)
+vb_idx_deel_herstel,24.52276407,25%,indexering VB als deel van het herstelbedrag
+gewone_z1_2003_2023,6.093602478,+6%,reële gewone bijdragen per verzekerde Z1 2003-2023
+gewone_z1_2006_2023,0.7067313358,+1%,reële gewone bijdragen per verzekerde Z1 2006-2023
+gewone_z1_2006_2019,7.907615267,+8%,reële gewone bijdragen per verzekerde Z1 2006-2019
+gewone_z1_2003_2015,21.993329,+22%,reële gewone bijdragen per verzekerde Z1 2003-2015
+gewone_z1_2015_2019,-6.814850051,-7%,reële gewone bijdragen per verzekerde Z1 2015-2019
+gewone_z1_2019_2023,-6.673193466,-7%,reële gewone bijdragen per verzekerde Z1 2019-2023
+gewone_z2_2003_2023,-4.158405425,-4%,reële gewone bijdragen per verzekerde Z2 2003-2023
+gewone_z2_2006_2023,-7.286429109,-7%,reële gewone bijdragen per verzekerde Z2 2006-2023
+gewone_z2_2006_2019,2.099896034,+2%,reële gewone bijdragen per verzekerde Z2 2006-2019
+gewone_z2_2003_2015,15.3399107,+15%,reële gewone bijdragen per verzekerde Z2 2003-2015
+gewone_z2_2015_2019,-8.492558818,-8%,reële gewone bijdragen per verzekerde Z2 2015-2019
+gewone_z2_2019_2023,-9.193275907,-9%,reële gewone bijdragen per verzekerde Z2 2019-2023
+venn_per_z1_2006,0.5144987047,"0,51",vennootschappen per verzekerde Z1 2006
+venn_per_z1_2023,0.7225314458,"0,72",vennootschappen per verzekerde Z1 2023
+pop_z1_2003_2023,31.43792013,+31%,groei Z1 2003-2023
+pop_w1_2003_2023,16.85859323,+17%,groei W1 2003-2023
+z_pensioen_aandeel_2003,53.46038663,53%,pensioenen in % van uitgaven zelfstandigen 2003
+z_pensioen_aandeel_2023,55.84511091,56%,pensioenen in % van uitgaven zelfstandigen 2023
+wg_aandeel_gem,66.99919274,67%,gemiddeld aandeel werkgevers 2003-2023
+wg_aandeel_min,65.93468953,66%,laagste aandeel werkgevers
+wg_aandeel_max,68.02211869,68%,hoogste aandeel werkgevers
+nbb_fodsz_min,9.930553853,10,"NBB-totaal boven FOD SZ, minimum (%)"
+nbb_fodsz_max,16.77344304,17,"NBB-totaal boven FOD SZ, maximum (%)"
+werknemers_pc_2003_2023,5.044181959,+5%,reële werknemersbijdragen per capita W1 2003-2023
+werknemers_pc_2003_2015,1.626466034,+2%,reële werknemersbijdragen per capita W1 2003-2015
+werknemers_pc_2015_2018,-2.436467806,-2%,reële werknemersbijdragen per capita W1 2015-2018
+werknemers_pc_2018_2023,5.944316757,+6%,reële werknemersbijdragen per capita W1 2018-2023
+werkgevers_pc_2003_2023,3.822122087,+4%,reële werkgeversbijdragen per capita W1 2003-2023
+werkgevers_pc_2003_2015,10.38843503,+10%,reële werkgeversbijdragen per capita W1 2003-2015
+werkgevers_pc_2015_2018,-8.930697338,-9%,reële werkgeversbijdragen per capita W1 2015-2018
+werkgevers_pc_2018_2023,3.274788426,+3%,reële werkgeversbijdragen per capita W1 2018-2023
+z_ns_2000,34.16470781,34%,nationale solidariteit zelfstandigen 2000
+z_ns_2007,37.19906293,37%,nationale solidariteit zelfstandigen 2007
+z_ns_2009,37.85788665,38%,nationale solidariteit zelfstandigen 2009
+z_ns_2014,42.97058068,43%,nationale solidariteit zelfstandigen 2014
+z_ns_2015,32.7290974,33%,nationale solidariteit zelfstandigen 2015
+z_ns_2016,32.55167394,33%,nationale solidariteit zelfstandigen 2016
+z_ns_2017,35.99483384,36%,nationale solidariteit zelfstandigen 2017
+z_ns_2019,37.29513116,37%,nationale solidariteit zelfstandigen 2019
+z_ns_2020,59.6721106,60%,nationale solidariteit zelfstandigen 2020
+z_ns_2022,43.62358059,44%,nationale solidariteit zelfstandigen 2022
+z_ns_2023,44.80237753,45%,nationale solidariteit zelfstandigen 2023
+z_ns_pp_2000_2023,10.63766972,"+10,6 procentpunt",verandering nationale solidariteit zelfstandigen 2000-2023
+z_ns_pp_2000_2007,3.034355123,"+3,0 procentpunt",verandering nationale solidariteit zelfstandigen 2000-2007
+z_ns_pp_2007_2009,0.6588237193,"+0,7 procentpunt",verandering nationale solidariteit zelfstandigen 2007-2009
+z_ns_pp_2009_2014,5.112694029,"+5,1 procentpunt",verandering nationale solidariteit zelfstandigen 2009-2014
+z_ns_pp_2014_2015,-10.24148328,"-10,2 procentpunt",verandering nationale solidariteit zelfstandigen 2014-2015
+z_ns_pp_2015_2019,4.566033757,"+4,6 procentpunt",verandering nationale solidariteit zelfstandigen 2015-2019
+z_ns_pp_2019_2020,22.37697944,"+22,4 procentpunt",verandering nationale solidariteit zelfstandigen 2019-2020
+z_ns_pp_2019_2022,6.328449434,"+6,3 procentpunt",verandering nationale solidariteit zelfstandigen 2019-2022
+z_ns_pp_2022_2023,1.178796938,"+1,2 procentpunt",verandering nationale solidariteit zelfstandigen 2022-2023
+z_ns_rel_2000_2023,31.13642821,+31%,relatieve verandering NS zelfstandigen 2000-2023
+z_aandeel_bijdragen_2000,62.93620157,63%,aandeel bijdragen zelfstandigen 2000
+z_aandeel_bijdragen_2016,66.51878102,67%,aandeel bijdragen zelfstandigen 2016
+z_aandeel_bijdragen_2017,63.3131361,63%,aandeel bijdragen zelfstandigen 2017
+z_aandeel_bijdragen_2020,40.05967571,40%,aandeel bijdragen zelfstandigen 2020
+z_aandeel_bijdragen_2023,54.66324936,55%,aandeel bijdragen zelfstandigen 2023
+z_aandeel_toelagen_2000,28.79694244,29%,aandeel toelagen zelfstandigen 2000
+z_aandeel_toelagen_2016,21.84544385,22%,aandeel toelagen zelfstandigen 2016
+z_aandeel_toelagen_2017,5.337163352,5%,aandeel toelagen zelfstandigen 2017
+z_aandeel_toelagen_2020,36.83867792,37%,aandeel toelagen zelfstandigen 2020
+z_aandeel_toelagen_2023,12.20476076,12%,aandeel toelagen zelfstandigen 2023
+z_aandeel_alternatieve_2000,5.367765376,5%,aandeel alternatieve zelfstandigen 2000
+z_aandeel_alternatieve_2016,10.7062301,11%,aandeel alternatieve zelfstandigen 2016
+z_aandeel_alternatieve_2017,30.65767049,31%,aandeel alternatieve zelfstandigen 2017
+z_aandeel_alternatieve_2020,22.83343268,23%,aandeel alternatieve zelfstandigen 2020
+z_aandeel_alternatieve_2023,32.59761677,33%,aandeel alternatieve zelfstandigen 2023
+z_aandeel_overige_2000,2.899090619,3%,aandeel overige zelfstandigen 2000
+z_aandeel_overige_2016,0.9295450383,1%,aandeel overige zelfstandigen 2016
+z_aandeel_overige_2017,0.6920300596,1%,aandeel overige zelfstandigen 2017
+z_aandeel_overige_2020,0.2682136907,0%,aandeel overige zelfstandigen 2020
+z_aandeel_overige_2023,0.5343731056,1%,aandeel overige zelfstandigen 2023
+z_toelagen_2016,1.412721,"€1,4 miljard",toelagen zelfstandigen 2016
+z_toelagen_2017,0.370147,"€0,4 miljard",toelagen zelfstandigen 2017
+z_altfin_2016,0.69236021,"€0,7 miljard",alternatieve financiering zelfstandigen 2016
+z_altfin_2017,2.126194012,"€2,1 miljard",alternatieve financiering zelfstandigen 2017
+z_toelagen_in_ns_2016,67.1100475,67%,toelagen binnen NS zelfstandigen 2016
+z_toelagen_in_ns_2017,14.82758158,15%,toelagen binnen NS zelfstandigen 2017
+z_toelagen_in_ns_2020,61.73516832,62%,toelagen binnen NS zelfstandigen 2020
+z_toelagen_in_ns_2023,27.24132386,27%,toelagen binnen NS zelfstandigen 2023
+z_altfin_btw_min,72.54897734,73%,laagste aandeel btw in alternatieve financiering zelfstandigen
+z_altfin_btw_max,100,100%,hoogste aandeel btw in alternatieve financiering zelfstandigen
+z_altfin_rv_max,27.45102266,27%,hoogste aandeel roerende voorheffing in alternatieve financiering zelfstandigen
+z_altfin_ander_max,15.29855756,15%,hoogste aandeel andere bronnen in alternatieve financiering zelfstandigen
+z_toelagen_in_ns_1719_min,13.71494639,14%,laagste aandeel toelagen binnen NS zelfstandigen 2017-2019
+z_toelagen_in_ns_1719_max,14.82758158,15%,hoogste aandeel toelagen binnen NS zelfstandigen 2017-2019
+z_btw_in_inkomsten_2023,24.40350559,24%,btw als aandeel van de inkomsten zelfstandigen 2023
+z_btw_in_ns_2023,54.46922001,54%,btw als aandeel van de nationale solidariteit zelfstandigen 2023
+w_ns_2000,20.94823342,21%,nationale solidariteit werknemers 2000
+w_ns_2007,28.23653918,28%,nationale solidariteit werknemers 2007
+w_ns_2009,26.36376125,26%,nationale solidariteit werknemers 2009
+w_ns_2014,32.71087238,33%,nationale solidariteit werknemers 2014
+w_ns_2015,21.28695482,21%,nationale solidariteit werknemers 2015
+w_ns_2016,22.30756608,22%,nationale solidariteit werknemers 2016
+w_ns_2017,26.10495868,26%,nationale solidariteit werknemers 2017
+w_ns_2019,27.02958163,27%,nationale solidariteit werknemers 2019
+w_ns_2020,35.04455143,35%,nationale solidariteit werknemers 2020
+w_ns_2022,28.87465505,29%,nationale solidariteit werknemers 2022
+w_ns_2023,30.28790103,30%,nationale solidariteit werknemers 2023
+w_ns_pp_2000_2023,9.339667612,"+9,3 procentpunt",verandering nationale solidariteit werknemers 2000-2023
+w_ns_pp_2000_2007,7.288305766,"+7,3 procentpunt",verandering nationale solidariteit werknemers 2000-2007
+w_ns_pp_2007_2009,-1.872777934,"-1,9 procentpunt",verandering nationale solidariteit werknemers 2007-2009
+w_ns_pp_2009_2014,6.347111135,"+6,3 procentpunt",verandering nationale solidariteit werknemers 2009-2014
+w_ns_pp_2014_2015,-11.42391757,"-11,4 procentpunt",verandering nationale solidariteit werknemers 2014-2015
+w_ns_pp_2015_2019,5.74262682,"+5,7 procentpunt",verandering nationale solidariteit werknemers 2015-2019
+w_ns_pp_2019_2020,8.0149698,"+8,0 procentpunt",verandering nationale solidariteit werknemers 2019-2020
+w_ns_pp_2019_2022,1.845073413,"+1,8 procentpunt",verandering nationale solidariteit werknemers 2019-2022
+w_ns_pp_2022_2023,1.413245981,"+1,4 procentpunt",verandering nationale solidariteit werknemers 2022-2023
+w_ns_rel_2000_2023,44.58451186,+45%,relatieve verandering NS werknemers 2000-2023
+w_aandeel_bijdragen_2000,72.31312479,72%,aandeel bijdragen werknemers 2000
+w_aandeel_bijdragen_2016,73.95101156,74%,aandeel bijdragen werknemers 2016
+w_aandeel_bijdragen_2017,70.48498156,70%,aandeel bijdragen werknemers 2017
+w_aandeel_bijdragen_2020,62.1201334,62%,aandeel bijdragen werknemers 2020
+w_aandeel_bijdragen_2023,67.16994609,67%,aandeel bijdragen werknemers 2023
+w_aandeel_toelagen_2000,12.19149242,12%,aandeel toelagen werknemers 2000
+w_aandeel_toelagen_2016,12.52890661,13%,aandeel toelagen werknemers 2016
+w_aandeel_toelagen_2017,9.527228556,10%,aandeel toelagen werknemers 2017
+w_aandeel_toelagen_2020,17.40275811,17%,aandeel toelagen werknemers 2020
+w_aandeel_toelagen_2023,9.601474994,10%,aandeel toelagen werknemers 2023
+w_aandeel_alternatieve_2000,8.756740998,9%,aandeel alternatieve werknemers 2000
+w_aandeel_alternatieve_2016,9.778659467,10%,aandeel alternatieve werknemers 2016
+w_aandeel_alternatieve_2017,16.57773013,17%,aandeel alternatieve werknemers 2017
+w_aandeel_alternatieve_2020,17.64179333,18%,aandeel alternatieve werknemers 2020
+w_aandeel_alternatieve_2023,20.68642604,21%,aandeel alternatieve werknemers 2023
+w_aandeel_overige_2000,6.738641788,7%,aandeel overige werknemers 2000
+w_aandeel_overige_2016,3.741422361,4%,aandeel overige werknemers 2016
+w_aandeel_overige_2017,3.410059759,3%,aandeel overige werknemers 2017
+w_aandeel_overige_2020,2.835315167,3%,aandeel overige werknemers 2020
+w_aandeel_overige_2023,2.542152879,3%,aandeel overige werknemers 2023
+w_toelagen_2016,8.071355558,"€8,1 miljard",toelagen werknemers 2016
+w_toelagen_2017,6.622597844,"€6,6 miljard",toelagen werknemers 2017
+w_altfin_2016,6.299595,"€6,3 miljard",alternatieve financiering werknemers 2016
+w_altfin_2017,11.52356524,"€11,5 miljard",alternatieve financiering werknemers 2017
+w_toelagen_in_ns_2016,56.16438193,56%,toelagen binnen NS werknemers 2016
+w_toelagen_in_ns_2017,36.49585764,36%,toelagen binnen NS werknemers 2017
+w_toelagen_in_ns_2020,49.65895523,50%,toelagen binnen NS werknemers 2020
+w_toelagen_in_ns_2023,31.70069456,32%,toelagen binnen NS werknemers 2023
+w_altfin_btw_min,64.46749355,64%,laagste aandeel btw in alternatieve financiering werknemers
+w_altfin_btw_max,100,100%,hoogste aandeel btw in alternatieve financiering werknemers
+w_altfin_rv_max,28.90135001,29%,hoogste aandeel roerende voorheffing in alternatieve financiering werknemers
+w_altfin_ander_max,9.26001856,9%,hoogste aandeel andere bronnen in alternatieve financiering werknemers
+w_toelagen_in_ns_1719_min,31.0307187,31%,laagste aandeel toelagen binnen NS werknemers 2017-2019
+w_toelagen_in_ns_1719_max,36.49585764,36%,hoogste aandeel toelagen binnen NS werknemers 2017-2019
+w_btw_in_inkomsten_2023,16.78990307,17%,btw als aandeel van de inkomsten werknemers 2023
+w_btw_in_ns_2023,55.43435663,55%,btw als aandeel van de nationale solidariteit werknemers 2023
+gi_verschil_min,1.820056195,"1,8",kleinste verschil gezondheidsindex - CPI in groei 2003-2023 (procentpunt)
+gi_verschil_max,2.272628051,"2,3",grootste verschil gezondheidsindex - CPI in groei 2003-2023 (procentpunt)
+z2_bijdr_cpi_2003_2023,-3.005593813,"-3,0%","reële bijdragen per capita Z2 2003-2023, deflator cpi"
+z2_bijdr_gi_2003_2023,-1.185537618,"-1,2%","reële bijdragen per capita Z2 2003-2023, deflator gezondheidsindex"
+rsvz_helpers_2002,44089,44.089,RSVZ helpers 2002
+rsvz_helpers_2003,102829,102.829,RSVZ helpers 2003
+rsvz_helpers_2002_2003,133.230511,+133%,groei helpers 2002-2003
+rsvz_totaal_2002_2003,7.720523051,"+7,7%",groei zelfstandigen en helpers 2002-2003
+ksz_helpers_2003,97093,97.093,"KSZ helpers (n13) 2003, vierde kwartaal"
+sr_n_extra,342532,342.532,extra vennootschappen 2003-2023
+sr_vb_2023,409.5238778,€410,gemiddelde vennootschapsbijdrage 2023
+sr_omslag,1997.677453,€1.998,omslagpunt: winst buiten bijdragebasis per extra vennootschap
+sr_omslag_afgerond,2000,€2.000,"omslagpunt, afgerond op 100 euro"
+sr_ratio_2023,57.15825667,"57,2%",beroepssolidariteit zelfstandigen 2023 (totalen)
+sr_1pp_mio,93.31502007,93,1 procentpunt in miljoen euro
+sr_delta_bl,73179,73.179,extra bedrijfsleiders AJ2015-AJ2022
+sr_delta_venn,140737,140.737,extra vennootschappen 2014-2021
+sr_bl_per_venn,0.5199698729,"0,52",extra bedrijfsleiders per extra vennootschap
+sr_plafond_1,72810.94,"€72.810,94",eerste plafond 2024
+sr_plafond_2,107300.3,"€107.300,30",tweede plafond 2024
+sr_vb_typegeval,387.34,"€387,34","vennootschapsbijdrage 2024, laag bedrag (typegevallen Bijlage 6)"
+sr_min_bezoldiging,45000,€45.000,minimumbezoldiging verlaagd tarief
+ratio_z1_pp_2003_2023,-7.316152998,"-7,3 procentpunt",verandering beroepssolidariteit Z1 2003-2023
+abc_plafond_personen,3.5,"3,5%",ABC Tabel 7: aandeel hoofdberoepers boven de maximumgrens
+abc_plafond_inkomensmassa,19.9,20%,ABC Tabel 7: hun aandeel in de inkomensmassa
+abc_plafond_bijdragen,9.9,10%,ABC Tabel 7: hun aandeel in de bijdragen
+abc_plafond_rel,6.208405988,6%,plafond weg: statische stijging gewone bijdragen hoofdberoepers
+abc_plafond_mln_laag,200,200,"plafond weg: ondergrens (miljoen euro, niveau 2023)"
+abc_plafond_mln_hoog,310,310,"plafond weg: bovengrens (miljoen euro, niveau 2023)"
+abc_plafond_kloof_laag,34.4839986,34%,plafond weg: ondergrens als deel van de financieringskloof
+abc_plafond_kloof_hoog,55.15824177,55%,plafond weg: bovengrens als deel van de financieringskloof
+sr_typ2_buiten,15000,€15.000,typegeval 2: winst die niet als bezoldiging wordt uitgekeerd
+sr_pp_s25_x0,-1.50324,"-1,5 procentpunt","scenario s=25%, X=0 euro: verschil beroepssolidariteit 2023"
+sr_tab_s25_x0,-1.50324,"-1,5","scenario s=25%, X=0 euro: procentpunt (tabelweergave)"
+sr_mio_s25_x0,-140.275,-140,"scenario s=25%, X=0 euro: verschil in miljoen euro"
+sr_pp_s25_x2000,-1.12699,"-1,1 procentpunt","scenario s=25%, X=2000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s25_x2000,-1.12699,"-1,1","scenario s=25%, X=2000 euro: procentpunt (tabelweergave)"
+sr_mio_s25_x2000,-105.166,-105,"scenario s=25%, X=2000 euro: verschil in miljoen euro"
+sr_pp_s25_x5000,-0.562623,"-0,6 procentpunt","scenario s=25%, X=5000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s25_x5000,-0.562623,"-0,6","scenario s=25%, X=5000 euro: procentpunt (tabelweergave)"
+sr_mio_s25_x5000,-52.5012,-53,"scenario s=25%, X=5000 euro: verschil in miljoen euro"
+sr_pp_s25_x10000,0.377995,"+0,4 procentpunt","scenario s=25%, X=10000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s25_x10000,0.377995,"+0,4","scenario s=25%, X=10000 euro: procentpunt (tabelweergave)"
+sr_mio_s25_x10000,35.2726,+35,"scenario s=25%, X=10000 euro: verschil in miljoen euro"
+sr_pp_s25_x15000,1.31861,"+1,3 procentpunt","scenario s=25%, X=15000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s25_x15000,1.31861,"+1,3","scenario s=25%, X=15000 euro: procentpunt (tabelweergave)"
+sr_mio_s25_x15000,123.046,+123,"scenario s=25%, X=15000 euro: verschil in miljoen euro"
+sr_pp_s25_x20000,2.25923,"+2,3 procentpunt","scenario s=25%, X=20000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s25_x20000,2.25923,"+2,3","scenario s=25%, X=20000 euro: procentpunt (tabelweergave)"
+sr_mio_s25_x20000,210.82,+211,"scenario s=25%, X=20000 euro: verschil in miljoen euro"
+sr_pp_s50_x0,-1.50324,"-1,5 procentpunt","scenario s=50%, X=0 euro: verschil beroepssolidariteit 2023"
+sr_tab_s50_x0,-1.50324,"-1,5","scenario s=50%, X=0 euro: procentpunt (tabelweergave)"
+sr_mio_s50_x0,-140.275,-140,"scenario s=50%, X=0 euro: verschil in miljoen euro"
+sr_pp_s50_x2000,-0.750747,"-0,8 procentpunt","scenario s=50%, X=2000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s50_x2000,-0.750747,"-0,8","scenario s=50%, X=2000 euro: procentpunt (tabelweergave)"
+sr_mio_s50_x2000,-70.056,-70,"scenario s=50%, X=2000 euro: verschil in miljoen euro"
+sr_pp_s50_x5000,0.377995,"+0,4 procentpunt","scenario s=50%, X=5000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s50_x5000,0.377995,"+0,4","scenario s=50%, X=5000 euro: procentpunt (tabelweergave)"
+sr_mio_s50_x5000,35.2726,+35,"scenario s=50%, X=5000 euro: verschil in miljoen euro"
+sr_pp_s50_x10000,2.25923,"+2,3 procentpunt","scenario s=50%, X=10000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s50_x10000,2.25923,"+2,3","scenario s=50%, X=10000 euro: procentpunt (tabelweergave)"
+sr_mio_s50_x10000,210.82,+211,"scenario s=50%, X=10000 euro: verschil in miljoen euro"
+sr_pp_s50_x15000,4.14047,"+4,1 procentpunt","scenario s=50%, X=15000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s50_x15000,4.14047,"+4,1","scenario s=50%, X=15000 euro: procentpunt (tabelweergave)"
+sr_mio_s50_x15000,386.368,+386,"scenario s=50%, X=15000 euro: verschil in miljoen euro"
+sr_pp_s50_x20000,6.02171,"+6,0 procentpunt","scenario s=50%, X=20000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s50_x20000,6.02171,"+6,0","scenario s=50%, X=20000 euro: procentpunt (tabelweergave)"
+sr_mio_s50_x20000,561.916,+562,"scenario s=50%, X=20000 euro: verschil in miljoen euro"
+sr_pp_s75_x0,-1.50324,"-1,5 procentpunt","scenario s=75%, X=0 euro: verschil beroepssolidariteit 2023"
+sr_tab_s75_x0,-1.50324,"-1,5","scenario s=75%, X=0 euro: procentpunt (tabelweergave)"
+sr_mio_s75_x0,-140.275,-140,"scenario s=75%, X=0 euro: verschil in miljoen euro"
+sr_pp_s75_x2000,-0.3745,"-0,4 procentpunt","scenario s=75%, X=2000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s75_x2000,-0.3745,"-0,4","scenario s=75%, X=2000 euro: procentpunt (tabelweergave)"
+sr_mio_s75_x2000,-34.9464,-35,"scenario s=75%, X=2000 euro: verschil in miljoen euro"
+sr_pp_s75_x5000,1.31861,"+1,3 procentpunt","scenario s=75%, X=5000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s75_x5000,1.31861,"+1,3","scenario s=75%, X=5000 euro: procentpunt (tabelweergave)"
+sr_mio_s75_x5000,123.046,+123,"scenario s=75%, X=5000 euro: verschil in miljoen euro"
+sr_pp_s75_x10000,4.14047,"+4,1 procentpunt","scenario s=75%, X=10000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s75_x10000,4.14047,"+4,1","scenario s=75%, X=10000 euro: procentpunt (tabelweergave)"
+sr_mio_s75_x10000,386.368,+386,"scenario s=75%, X=10000 euro: verschil in miljoen euro"
+sr_pp_s75_x15000,6.96232,"+7,0 procentpunt","scenario s=75%, X=15000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s75_x15000,6.96232,"+7,0","scenario s=75%, X=15000 euro: procentpunt (tabelweergave)"
+sr_mio_s75_x15000,649.689,+650,"scenario s=75%, X=15000 euro: verschil in miljoen euro"
+sr_pp_s75_x20000,9.78418,"+9,8 procentpunt","scenario s=75%, X=20000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s75_x20000,9.78418,"+9,8","scenario s=75%, X=20000 euro: procentpunt (tabelweergave)"
+sr_mio_s75_x20000,913.011,+913,"scenario s=75%, X=20000 euro: verschil in miljoen euro"
+sr_pp_s100_x0,-1.50324,"-1,5 procentpunt","scenario s=100%, X=0 euro: verschil beroepssolidariteit 2023"
+sr_tab_s100_x0,-1.50324,"-1,5","scenario s=100%, X=0 euro: procentpunt (tabelweergave)"
+sr_mio_s100_x0,-140.275,-140,"scenario s=100%, X=0 euro: verschil in miljoen euro"
+sr_pp_s100_x2000,0.0017477,"0,0 procentpunt","scenario s=100%, X=2000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s100_x2000,0.0017477,"0,0","scenario s=100%, X=2000 euro: procentpunt (tabelweergave)"
+sr_mio_s100_x2000,0.163087,0,"scenario s=100%, X=2000 euro: verschil in miljoen euro"
+sr_pp_s100_x5000,2.25923,"+2,3 procentpunt","scenario s=100%, X=5000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s100_x5000,2.25923,"+2,3","scenario s=100%, X=5000 euro: procentpunt (tabelweergave)"
+sr_mio_s100_x5000,210.82,+211,"scenario s=100%, X=5000 euro: verschil in miljoen euro"
+sr_pp_s100_x10000,6.02171,"+6,0 procentpunt","scenario s=100%, X=10000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s100_x10000,6.02171,"+6,0","scenario s=100%, X=10000 euro: procentpunt (tabelweergave)"
+sr_mio_s100_x10000,561.916,+562,"scenario s=100%, X=10000 euro: verschil in miljoen euro"
+sr_pp_s100_x15000,9.78418,"+9,8 procentpunt","scenario s=100%, X=15000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s100_x15000,9.78418,"+9,8","scenario s=100%, X=15000 euro: procentpunt (tabelweergave)"
+sr_mio_s100_x15000,913.011,+913,"scenario s=100%, X=15000 euro: verschil in miljoen euro"
+sr_pp_s100_x20000,13.5467,"+13,5 procentpunt","scenario s=100%, X=20000 euro: verschil beroepssolidariteit 2023"
+sr_tab_s100_x20000,13.5467,"+13,5","scenario s=100%, X=20000 euro: procentpunt (tabelweergave)"
+sr_mio_s100_x20000,1264.11,+1.264,"scenario s=100%, X=20000 euro: verschil in miljoen euro"
+sr_s50_x10000_deel_daling,30.88002671,31%,"scenario s=50%, X=10.000 als deel van de daling 2003-2023"
+sr_typ1_winst,45000,€45.000,typegeval 1: winst
+sr_typ1_bezoldiging,45000,€45.000,typegeval 1: bezoldiging
+sr_typ1_eenmanszaak,9225,€9.225,typegeval 1: bijdrage als eenmanszaak
+sr_typ1_vennootschap,9612.34,€9.612,typegeval 1: bijdrage via vennootschap
+sr_typ1_verschil,-387.34,-€387,typegeval 1: verschil
+sr_typ2_winst,60000,€60.000,typegeval 2: winst
+sr_typ2_bezoldiging,45000,€45.000,typegeval 2: bezoldiging
+sr_typ2_eenmanszaak,12300,€12.300,typegeval 2: bijdrage als eenmanszaak
+sr_typ2_vennootschap,9612.34,€9.612,typegeval 2: bijdrage via vennootschap
+sr_typ2_verschil,2687.66,+€2.688,typegeval 2: verschil
+sr_typ3_winst,100000,€100.000,typegeval 3: winst
+sr_typ3_bezoldiging,45000,€45.000,typegeval 3: bezoldiging
+sr_typ3_eenmanszaak,18776.2,€18.776,typegeval 3: bijdrage als eenmanszaak
+sr_typ3_vennootschap,9612.34,€9.612,typegeval 3: bijdrage via vennootschap
+sr_typ3_verschil,9163.87,+€9.164,typegeval 3: verschil
+sr_typ4_winst,50000,€50.000,typegeval 4: winst
+sr_typ4_bezoldiging,0,€0,typegeval 4: bezoldiging
+sr_typ4_eenmanszaak,10250,€10.250,typegeval 4: bijdrage als eenmanszaak
+sr_typ4_vennootschap,3843.94,€3.844,typegeval 4: bijdrage via vennootschap
+sr_typ4_verschil,6406.06,+€6.406,typegeval 4: verschil
+mi_br_x_x_wn_x_p15000,30.66786667,31%,"bijdrage_ratio, -, -, WN, maand -: waarde bij €15000"
+mi_br_x_x_wn_x_p2250,7.833333333,8%,"bijdrage_ratio, -, -, WN, maand -: waarde bij €2250"
+mi_br_x_x_wn_x_p9000,29.52166667,30%,"bijdrage_ratio, -, -, WN, maand -: waarde bij €9000"
+mi_br_x_x_ze_x_p15000,11.68709502,12%,"bijdrage_ratio, -, -, ZE, maand -: waarde bij €15000"
+mi_br_x_x_ze_x_p1550,22.65750377,23%,"bijdrage_ratio, -, -, ZE, maand -: waarde bij €1550"
+mi_br_x_x_ze_x_p3750,34.51177476,35%,"bijdrage_ratio, -, -, ZE, maand -: waarde bij €3750"
+mi_br_x_x_ze_x_p4000,34.64514129,35%,"bijdrage_ratio, -, -, ZE, maand -: waarde bij €4000"
+mi_br_x_x_ze_x_p5000,34.11432266,34%,"bijdrage_ratio, -, -, ZE, maand -: waarde bij €5000"
+mi_br_x_x_ze_x_p5250,33.39170007,33%,"bijdrage_ratio, -, -, ZE, maand -: waarde bij €5250"
+mi_br_x_x_ze_x_p9000,19.47849171,19%,"bijdrage_ratio, -, -, ZE, maand -: waarde bij €9000"
+mi_br_x_x_zv00_x_p15000,2.194092389,2%,"bijdrage_ratio, -, -, ZV00, maand -: waarde bij €15000"
+mi_br_x_x_zv00_x_p1550,21.23315215,21%,"bijdrage_ratio, -, -, ZV00, maand -: waarde bij €1550"
+mi_br_x_x_zv00_x_p6000,5.485230972,5%,"bijdrage_ratio, -, -, ZV00, maand -: waarde bij €6000"
+mi_br_x_x_zv50_x_p10000,17.06576582,17%,"bijdrage_ratio, -, -, ZV50, maand -: waarde bij €10000"
+mi_br_x_x_zv50_x_p15000,11.90228391,12%,"bijdrage_ratio, -, -, ZV50, maand -: waarde bij €15000"
+mi_br_x_x_zv50_x_p1550,21.23315215,21%,"bijdrage_ratio, -, -, ZV50, maand -: waarde bij €1550"
+mi_br_x_x_zv50_x_p2500,13.16455433,13%,"bijdrage_ratio, -, -, ZV50, maand -: waarde bij €2500"
+mi_br_x_x_zv75_x_p15000,11.90228391,12%,"bijdrage_ratio, -, -, ZV75, maand -: waarde bij €15000"
+mi_br_x_x_zv75_x_p1550,21.23315215,21%,"bijdrage_ratio, -, -, ZV75, maand -: waarde bij €1550"
+mi_br_x_x_zv75_x_p4750,25.89065503,26%,"bijdrage_ratio, -, -, ZV75, maand -: waarde bij €4750"
+mi_eq_a_w_wn_m13_eerste_ge100,6750,€6.750,"equivalentiegraad, alleen, werkloosheid, WN, maand 1-3: eerste positie met minstens 100%"
+mi_eq_a_w_wn_m13_gem,92.42296001,92%,"equivalentiegraad, alleen, werkloosheid, WN, maand 1-3: gemiddelde over de posities"
+mi_eq_a_w_wn_m13_p15000,242.095822,242%,"equivalentiegraad, alleen, werkloosheid, WN, maand 1-3: waarde bij €15000"
+mi_eq_a_w_wn_m13_vc,0.6878249964,"0,69","equivalentiegraad, alleen, werkloosheid, WN, maand 1-3: variatiecoëfficiënt"
+mi_eq_a_w_ze_x_gem,89.41771653,89%,"equivalentiegraad, alleen, werkloosheid, ZE, maand -: gemiddelde over de posities"
+mi_eq_a_w_ze_x_vc,0.3146794522,"0,31","equivalentiegraad, alleen, werkloosheid, ZE, maand -: variatiecoëfficiënt"
+mi_eq_a_w_zv00_x_gem,20.40432507,20%,"equivalentiegraad, alleen, werkloosheid, ZV00, maand -: gemiddelde over de posities"
+mi_eq_a_w_zv00_x_vc,0,"0,00","equivalentiegraad, alleen, werkloosheid, ZV00, maand -: variatiecoëfficiënt"
+mi_eq_a_w_zv100_x_gem,91.39175789,91%,"equivalentiegraad, alleen, werkloosheid, ZV100, maand -: gemiddelde over de posities"
+mi_eq_a_w_zv100_x_vc,0.3012318241,"0,30","equivalentiegraad, alleen, werkloosheid, ZV100, maand -: variatiecoëfficiënt"
+mi_eq_a_w_zv100vaa_x_gem,91.3971259,91%,"equivalentiegraad, alleen, werkloosheid, ZV100VAA, maand -: gemiddelde over de posities"
+mi_eq_a_w_zv100vaa_x_vc,0.301260921,"0,30","equivalentiegraad, alleen, werkloosheid, ZV100VAA, maand -: variatiecoëfficiënt"
+mi_eq_a_w_zv50_x_gem,60.88081034,61%,"equivalentiegraad, alleen, werkloosheid, ZV50, maand -: gemiddelde over de posities"
+mi_eq_a_w_zv50_x_vc,0.5294243235,"0,53","equivalentiegraad, alleen, werkloosheid, ZV50, maand -: variatiecoëfficiënt"
+mi_eq_a_w_zv75_x_gem,80.03253351,80%,"equivalentiegraad, alleen, werkloosheid, ZV75, maand -: gemiddelde over de posities"
+mi_eq_a_w_zv75_x_vc,0.398553095,"0,40","equivalentiegraad, alleen, werkloosheid, ZV75, maand -: variatiecoëfficiënt"
+mi_eq_a_z_wn_m2_eerste_ge100,8000,€8.000,"equivalentiegraad, alleen, ziekte, WN, maand 2: eerste positie met minstens 100%"
+mi_eq_a_z_wn_m2_gem,78.2498221,78%,"equivalentiegraad, alleen, ziekte, WN, maand 2: gemiddelde over de posities"
+mi_eq_a_z_wn_m2_p15000,204.5722481,205%,"equivalentiegraad, alleen, ziekte, WN, maand 2: waarde bij €15000"
+mi_eq_a_z_wn_m2_vc,0.6843934278,"0,68","equivalentiegraad, alleen, ziekte, WN, maand 2: variatiecoëfficiënt"
+mi_eq_a_z_ze_x_eerste_ge100,4750,€4.750,"equivalentiegraad, alleen, ziekte, ZE, maand -: eerste positie met minstens 100%"
+mi_eq_a_z_ze_x_gem,89.56305236,90%,"equivalentiegraad, alleen, ziekte, ZE, maand -: gemiddelde over de posities"
+mi_eq_a_z_ze_x_p15000,108.862727,109%,"equivalentiegraad, alleen, ziekte, ZE, maand -: waarde bij €15000"
+mi_eq_a_z_ze_x_p1550,21.80846679,22%,"equivalentiegraad, alleen, ziekte, ZE, maand -: waarde bij €1550"
+mi_eq_a_z_ze_x_vc,0.3146794521,"0,31","equivalentiegraad, alleen, ziekte, ZE, maand -: variatiecoëfficiënt"
+mi_eq_a_z_zv00_x_gem,20.43748941,20%,"equivalentiegraad, alleen, ziekte, ZV00, maand -: gemiddelde over de posities"
+mi_eq_a_z_zv00_x_vc,0,"0,00","equivalentiegraad, alleen, ziekte, ZV00, maand -: variatiecoëfficiënt"
+mi_eq_a_z_zv100_x_gem,91.54030222,92%,"equivalentiegraad, alleen, ziekte, ZV100, maand -: gemiddelde over de posities"
+mi_eq_a_z_zv100_x_p15000,110.8671643,111%,"equivalentiegraad, alleen, ziekte, ZV100, maand -: waarde bij €15000"
+mi_eq_a_z_zv100_x_p1550,26.05430559,26%,"equivalentiegraad, alleen, ziekte, ZV100, maand -: waarde bij €1550"
+mi_eq_a_z_zv100_x_vc,0.301231824,"0,30","equivalentiegraad, alleen, ziekte, ZV100, maand -: variatiecoëfficiënt"
+mi_eq_a_z_zv100vaa_x_gem,91.54567895,92%,"equivalentiegraad, alleen, ziekte, ZV100VAA, maand -: gemiddelde over de posities"
+mi_eq_a_z_zv100vaa_x_vc,0.3012609209,"0,30","equivalentiegraad, alleen, ziekte, ZV100VAA, maand -: variatiecoëfficiënt"
+mi_eq_a_z_zv50_x_eerste_ge100,9500,€9.500,"equivalentiegraad, alleen, ziekte, ZV50, maand -: eerste positie met minstens 100%"
+mi_eq_a_z_zv50_x_gem,60.97976347,61%,"equivalentiegraad, alleen, ziekte, ZV50, maand -: gemiddelde over de posities"
+mi_eq_a_z_zv50_x_vc,0.5294243234,"0,53","equivalentiegraad, alleen, ziekte, ZV50, maand -: variatiecoëfficiënt"
+mi_eq_a_z_zv75_x_eerste_ge100,6500,€6.500,"equivalentiegraad, alleen, ziekte, ZV75, maand -: eerste positie met minstens 100%"
+mi_eq_a_z_zv75_x_gem,80.16261504,80%,"equivalentiegraad, alleen, ziekte, ZV75, maand -: gemiddelde over de posities"
+mi_eq_a_z_zv75_x_vc,0.3985530949,"0,40","equivalentiegraad, alleen, ziekte, ZV75, maand -: variatiecoëfficiënt"
+mi_eq_k_w_wn_m13_gem,92.42308226,92%,"equivalentiegraad, koppel, werkloosheid, WN, maand 1-3: gemiddelde over de posities"
+mi_eq_k_w_wn_m13_vc,0.6878221658,"0,69","equivalentiegraad, koppel, werkloosheid, WN, maand 1-3: variatiecoëfficiënt"
+mi_eq_k_w_ze_x_gem,89.41771653,89%,"equivalentiegraad, koppel, werkloosheid, ZE, maand -: gemiddelde over de posities"
+mi_eq_k_w_ze_x_vc,0.3146794522,"0,31","equivalentiegraad, koppel, werkloosheid, ZE, maand -: variatiecoëfficiënt"
+mi_eq_k_w_zv00_x_gem,20.40432507,20%,"equivalentiegraad, koppel, werkloosheid, ZV00, maand -: gemiddelde over de posities"
+mi_eq_k_w_zv00_x_vc,0,"0,00","equivalentiegraad, koppel, werkloosheid, ZV00, maand -: variatiecoëfficiënt"
+mi_eq_k_w_zv100vaa_x_gem,91.3971259,91%,"equivalentiegraad, koppel, werkloosheid, ZV100VAA, maand -: gemiddelde over de posities"
+mi_eq_k_w_zv100vaa_x_vc,0.301260921,"0,30","equivalentiegraad, koppel, werkloosheid, ZV100VAA, maand -: variatiecoëfficiënt"
+mi_eq_k_w_zv50_x_gem,60.88081034,61%,"equivalentiegraad, koppel, werkloosheid, ZV50, maand -: gemiddelde over de posities"
+mi_eq_k_w_zv50_x_vc,0.5294243235,"0,53","equivalentiegraad, koppel, werkloosheid, ZV50, maand -: variatiecoëfficiënt"
+mi_eq_k_w_zv75_x_gem,80.03253351,80%,"equivalentiegraad, koppel, werkloosheid, ZV75, maand -: gemiddelde over de posities"
+mi_eq_k_w_zv75_x_vc,0.398553095,"0,40","equivalentiegraad, koppel, werkloosheid, ZV75, maand -: variatiecoëfficiënt"
+mi_eq_k_z_wn_m2_gem,78.25002564,78%,"equivalentiegraad, koppel, ziekte, WN, maand 2: gemiddelde over de posities"
+mi_eq_k_z_wn_m2_vc,0.6843878528,"0,68","equivalentiegraad, koppel, ziekte, WN, maand 2: variatiecoëfficiënt"
+mi_eq_k_z_ze_x_gem,116.7646612,117%,"equivalentiegraad, koppel, ziekte, ZE, maand -: gemiddelde over de posities"
+mi_eq_k_z_ze_x_vc,0.3146794521,"0,31","equivalentiegraad, koppel, ziekte, ZE, maand -: variatiecoëfficiënt"
+mi_eq_k_z_zv00_x_gem,26.64465384,27%,"equivalentiegraad, koppel, ziekte, ZV00, maand -: gemiddelde over de posities"
+mi_eq_k_z_zv00_x_vc,0,"0,00","equivalentiegraad, koppel, ziekte, ZV00, maand -: variatiecoëfficiënt"
+mi_eq_k_z_zv100vaa_x_gem,119.3494405,119%,"equivalentiegraad, koppel, ziekte, ZV100VAA, maand -: gemiddelde over de posities"
+mi_eq_k_z_zv100vaa_x_vc,0.301260921,"0,30","equivalentiegraad, koppel, ziekte, ZV100VAA, maand -: variatiecoëfficiënt"
+mi_eq_k_z_zv50_x_gem,79.50020947,80%,"equivalentiegraad, koppel, ziekte, ZV50, maand -: gemiddelde over de posities"
+mi_eq_k_z_zv50_x_vc,0.5294243235,"0,53","equivalentiegraad, koppel, ziekte, ZV50, maand -: variatiecoëfficiënt"
+mi_eq_k_z_zv75_x_gem,104.5091736,105%,"equivalentiegraad, koppel, ziekte, ZV75, maand -: gemiddelde over de posities"
+mi_eq_k_z_zv75_x_vc,0.398553095,"0,40","equivalentiegraad, koppel, ziekte, ZV75, maand -: variatiecoëfficiënt"
+mi_eq_x_p_wn_x_eerste_ge100,9000,€9.000,"equivalentiegraad, -, pensioen, WN, maand -: eerste positie met minstens 100%"
+mi_eq_x_p_wn_x_gem,67.05732648,67%,"equivalentiegraad, -, pensioen, WN, maand -: gemiddelde over de posities"
+mi_eq_x_p_wn_x_p15000,173.5238771,174%,"equivalentiegraad, -, pensioen, WN, maand -: waarde bij €15000"
+mi_eq_x_p_wn_x_vc,0.6683399372,"0,67","equivalentiegraad, -, pensioen, WN, maand -: variatiecoëfficiënt"
+mi_eq_x_p_ze_x_gem,58.85637112,59%,"equivalentiegraad, -, pensioen, ZE, maand -: gemiddelde over de posities"
+mi_eq_x_p_ze_x_p15000,68.67807924,69%,"equivalentiegraad, -, pensioen, ZE, maand -: waarde bij €15000"
+mi_eq_x_p_ze_x_vc,0.2388777171,"0,24","equivalentiegraad, -, pensioen, ZE, maand -: variatiecoëfficiënt"
+mi_eq_x_p_zv00_x_gem,19.55678384,20%,"equivalentiegraad, -, pensioen, ZV00, maand -: gemiddelde over de posities"
+mi_eq_x_p_zv00_x_vc,1.419230066e-16,"0,00","equivalentiegraad, -, pensioen, ZV00, maand -: variatiecoëfficiënt"
+mi_eq_x_p_zv100_x_gem,60.27287879,60%,"equivalentiegraad, -, pensioen, ZV100, maand -: gemiddelde over de posities"
+mi_eq_x_p_zv100_x_p15000,69.94261585,70%,"equivalentiegraad, -, pensioen, ZV100, maand -: waarde bij €15000"
+mi_eq_x_p_zv100_x_p1550,24.93155652,25%,"equivalentiegraad, -, pensioen, ZV100, maand -: waarde bij €1550"
+mi_eq_x_p_zv100_x_vc,0.222089978,"0,22","equivalentiegraad, -, pensioen, ZV100, maand -: variatiecoëfficiënt"
+mi_eq_x_p_zv50_x_gem,44.46616205,44%,"equivalentiegraad, -, pensioen, ZV50, maand -: gemiddelde over de posities"
+mi_eq_x_p_zv50_x_p1550,19.55678384,20%,"equivalentiegraad, -, pensioen, ZV50, maand -: waarde bij €1550"
+mi_eq_x_p_zv50_x_vc,0.3817602606,"0,38","equivalentiegraad, -, pensioen, ZV50, maand -: variatiecoëfficiënt"
+mi_eq_x_p_zv75_x_gem,54.27092181,54%,"equivalentiegraad, -, pensioen, ZV75, maand -: gemiddelde over de posities"
+mi_eq_x_p_zv75_x_vc,0.2970791561,"0,30","equivalentiegraad, -, pensioen, ZV75, maand -: variatiecoëfficiënt"
+mi_gg_a_w_wn_m13_p1550,91.8613241,92%,"garantiegraad, alleen, werkloosheid, WN, maand 1-3: waarde bij €1550"
+mi_gg_a_w_wn_m13_p2500,123.5097486,124%,"garantiegraad, alleen, werkloosheid, WN, maand 1-3: waarde bij €2500"
+mi_gg_a_w_wn_m46_p2500,117.8367078,118%,"garantiegraad, alleen, werkloosheid, WN, maand 4-6: waarde bij €2500"
+mi_gg_a_w_wn_m712_p2500,113.2069929,113%,"garantiegraad, alleen, werkloosheid, WN, maand 7-12: waarde bij €2500"
+mi_gg_a_z_wn_m2_p1550,85.10413529,85%,"garantiegraad, alleen, ziekte, WN, maand 2: waarde bij €1550"
+mi_gg_a_z_wn_m712_p1550,104.6724361,105%,"garantiegraad, alleen, ziekte, WN, maand 7-12: waarde bij €1550"
+mi_gg_a_z_wn_m712_p3000,146.1618576,146%,"garantiegraad, alleen, ziekte, WN, maand 7-12: waarde bij €3000"
+mi_gg_a_z_zs_x_p1550,104.6724361,105%,"garantiegraad, alleen, ziekte, ZS, maand -: waarde bij €1550"
+mi_gg_x_p_wn_x_p15000,172.3174622,172%,"garantiegraad, -, pensioen, WN, maand -: waarde bij €15000"
+mi_gg_x_p_ze_x_p15000,165.9179605,166%,"garantiegraad, -, pensioen, ZE, maand -: waarde bij €15000"
+mi_gg_x_p_ze_x_start_tot,2000,€2.000,"garantiegraad, -, pensioen, ZE, maand -: laatste positie met dezelfde waarde als op €1.550"
+mi_gg_x_p_zv50_x_start_tot,4250,€4.250,"garantiegraad, -, pensioen, ZV50, maand -: laatste positie met dezelfde waarde als op €1.550"
+mi_gg_x_p_zv75_x_start_tot,2750,€2.750,"garantiegraad, -, pensioen, ZV75, maand -: laatste positie met dezelfde waarde als op €1.550"
+mi_vv_a_w_wn_m13_gem,39.95033562,40%,"vervangingsgraad, alleen, werkloosheid, WN, maand 1-3: gemiddelde over de posities"
+mi_vv_a_w_wn_m13_vc,0.5388203533,"0,54","vervangingsgraad, alleen, werkloosheid, WN, maand 1-3: variatiecoëfficiënt"
+mi_vv_a_w_zs_x_gem,36.14735286,36%,"vervangingsgraad, alleen, werkloosheid, ZS, maand -: gemiddelde over de posities"
+mi_vv_a_w_zs_x_vc,0.6391036658,"0,64","vervangingsgraad, alleen, werkloosheid, ZS, maand -: variatiecoëfficiënt"
+mi_vv_a_z_wn_m2_gem,44.68549018,45%,"vervangingsgraad, alleen, ziekte, WN, maand 2: gemiddelde over de posities"
+mi_vv_a_z_wn_m2_p15000,14.99121555,15%,"vervangingsgraad, alleen, ziekte, WN, maand 2: waarde bij €15000"
+mi_vv_a_z_wn_m2_p1550,84.47053761,84%,"vervangingsgraad, alleen, ziekte, WN, maand 2: waarde bij €1550"
+mi_vv_a_z_wn_m2_p2000,65.46466665,65%,"vervangingsgraad, alleen, ziekte, WN, maand 2: waarde bij €2000"
+mi_vv_a_z_wn_m2_p2500,80.73992724,81%,"vervangingsgraad, alleen, ziekte, WN, maand 2: waarde bij €2500"
+mi_vv_a_z_wn_m2_vc,0.472462437,"0,47","vervangingsgraad, alleen, ziekte, WN, maand 2: variatiecoëfficiënt"
+mi_vv_a_z_wn_m36_p1550,90.32258065,90%,"vervangingsgraad, alleen, ziekte, WN, maand 3-6: waarde bij €1550"
+mi_vv_a_z_wn_m712_gem,46.19082086,46%,"vervangingsgraad, alleen, ziekte, WN, maand 7-12: gemiddelde over de posities"
+mi_vv_a_z_wn_m712_p1550,103.893153,104%,"vervangingsgraad, alleen, ziekte, WN, maand 7-12: waarde bij €1550"
+mi_vv_a_z_zs_x_gem,36.08869579,36%,"vervangingsgraad, alleen, ziekte, ZS, maand -: gemiddelde over de posities"
+mi_vv_a_z_zs_x_p15000,10.73562581,11%,"vervangingsgraad, alleen, ziekte, ZS, maand -: waarde bij €15000"
+mi_vv_a_z_zs_x_p1550,103.893153,104%,"vervangingsgraad, alleen, ziekte, ZS, maand -: waarde bij €1550"
+mi_vv_a_z_zs_x_vc,0.6391036658,"0,64","vervangingsgraad, alleen, ziekte, ZS, maand -: variatiecoëfficiënt"
+mi_vv_k_w_wn_m13_gem,39.68562383,40%,"vervangingsgraad, koppel, werkloosheid, WN, maand 1-3: gemiddelde over de posities"
+mi_vv_k_w_wn_m13_vc,0.5299779126,"0,53","vervangingsgraad, koppel, werkloosheid, WN, maand 1-3: variatiecoëfficiënt"
+mi_vv_k_w_zs_x_gem,36.14735286,36%,"vervangingsgraad, koppel, werkloosheid, ZS, maand -: gemiddelde over de posities"
+mi_vv_k_w_zs_x_vc,0.6391036658,"0,64","vervangingsgraad, koppel, werkloosheid, ZS, maand -: variatiecoëfficiënt"
+mi_vv_k_z_wn_m2_gem,43.27162981,43%,"vervangingsgraad, koppel, ziekte, WN, maand 2: gemiddelde over de posities"
+mi_vv_k_z_wn_m2_vc,0.4493893345,"0,45","vervangingsgraad, koppel, ziekte, WN, maand 2: variatiecoëfficiënt"
+mi_vv_k_z_zs_x_gem,27.68143818,28%,"vervangingsgraad, koppel, ziekte, ZS, maand -: gemiddelde over de posities"
+mi_vv_k_z_zs_x_vc,0.6391036659,"0,64","vervangingsgraad, koppel, ziekte, ZS, maand -: variatiecoëfficiënt"
+mi_vv_x_p_wn_x_gem,51.03295783,51%,"vervangingsgraad, -, pensioen, WN, maand -: gemiddelde over de posities"
+mi_vv_x_p_wn_x_p15000,17.67357161,18%,"vervangingsgraad, -, pensioen, WN, maand -: waarde bij €15000"
+mi_vv_x_p_wn_x_p1550,108.5717995,109%,"vervangingsgraad, -, pensioen, WN, maand -: waarde bij €1550"
+mi_vv_x_p_wn_x_p2250,74.79390636,75%,"vervangingsgraad, -, pensioen, WN, maand -: waarde bij €2250"
+mi_vv_x_p_wn_x_p3500,72.10842946,72%,"vervangingsgraad, -, pensioen, WN, maand -: waarde bij €3500"
+mi_vv_x_p_wn_x_vc,0.4518999555,"0,45","vervangingsgraad, -, pensioen, WN, maand -: variatiecoëfficiënt"
+mi_vv_x_p_ze_x_gem,49.26266304,49%,"vervangingsgraad, -, pensioen, ZE, maand -: gemiddelde over de posities"
+mi_vv_x_p_ze_x_p1550,108.5717995,109%,"vervangingsgraad, -, pensioen, ZE, maand -: waarde bij €1550"
+mi_vv_x_p_ze_x_p6000,42.54303248,43%,"vervangingsgraad, -, pensioen, ZE, maand -: waarde bij €6000"
+mi_vv_x_p_ze_x_vc,0.4603078546,"0,46","vervangingsgraad, -, pensioen, ZE, maand -: variatiecoëfficiënt"
+mi_vv_x_p_zv00_x_gem,37.71388712,38%,"vervangingsgraad, -, pensioen, ZV00, maand -: gemiddelde over de posities"
+mi_vv_x_p_zv00_x_p6000,28.04771488,28%,"vervangingsgraad, -, pensioen, ZV00, maand -: waarde bij €6000"
+mi_vv_x_p_zv00_x_vc,0.6391036658,"0,64","vervangingsgraad, -, pensioen, ZV00, maand -: variatiecoëfficiënt"
+mi_vv_x_p_zv100_x_gem,49.33896923,49%,"vervangingsgraad, -, pensioen, ZV100, maand -: gemiddelde over de posities"
+mi_vv_x_p_zv100_x_vc,0.4614530883,"0,46","vervangingsgraad, -, pensioen, ZV100, maand -: variatiecoëfficiënt"
+mi_vv_x_p_zv50_x_gem,42.30145456,42%,"vervangingsgraad, -, pensioen, ZV50, maand -: gemiddelde over de posities"
+mi_vv_x_p_zv50_x_p6000,34.9782828,35%,"vervangingsgraad, -, pensioen, ZV50, maand -: waarde bij €6000"
+mi_vv_x_p_zv50_x_vc,0.5006268836,"0,50","vervangingsgraad, -, pensioen, ZV50, maand -: variatiecoëfficiënt"
+mi_vv_x_p_zv75_x_gem,46.39284112,46%,"vervangingsgraad, -, pensioen, ZV75, maand -: gemiddelde over de posities"
+mi_vv_x_p_zv75_x_vc,0.4525328546,"0,45","vervangingsgraad, -, pensioen, ZV75, maand -: variatiecoëfficiënt"
+mi_kak_gelijk_wn,0.07227278397,"0,07","Kakwani-index WN, weging gelijk"
+mi_ratio_gelijk_wn,24.59543394,25%,"gemiddelde bijdrage/draagkracht WN, weging gelijk"
+mi_kak_silc_wn,0.1831593226,"0,18","Kakwani-index WN, weging silc"
+mi_ratio_silc_wn,18.75992408,19%,"gemiddelde bijdrage/draagkracht WN, weging silc"
+mi_kak_adi_wn,0.2284295064,"0,23","Kakwani-index WN, weging adi"
+mi_ratio_adi_wn,17.15014448,17%,"gemiddelde bijdrage/draagkracht WN, weging adi"
+mi_kak_gelijk_ze,-0.1592350071,"-0,16","Kakwani-index ZE, weging gelijk"
+mi_ratio_gelijk_ze,26.05926458,26%,"gemiddelde bijdrage/draagkracht ZE, weging gelijk"
+mi_kak_silc_ze,0.05702715849,"0,06","Kakwani-index ZE, weging silc"
+mi_ratio_silc_ze,28.39103183,28%,"gemiddelde bijdrage/draagkracht ZE, weging silc"
+mi_kak_adi_ze,0.03834171114,"0,04","Kakwani-index ZE, weging adi"
+mi_ratio_adi_ze,28.35304386,28%,"gemiddelde bijdrage/draagkracht ZE, weging adi"
+mi_kak_gelijk_zv100vaa,-0.1642729271,"-0,16","Kakwani-index ZV100VAA, weging gelijk"
+mi_ratio_gelijk_zv100vaa,26.90432813,27%,"gemiddelde bijdrage/draagkracht ZV100VAA, weging gelijk"
+mi_kak_silc_zv100vaa,0.02865361938,"0,03","Kakwani-index ZV100VAA, weging silc"
+mi_ratio_silc_zv100vaa,30.68932593,31%,"gemiddelde bijdrage/draagkracht ZV100VAA, weging silc"
+mi_kak_adi_zv100vaa,0.01072926879,"0,01","Kakwani-index ZV100VAA, weging adi"
+mi_ratio_adi_zv100vaa,30.57143091,31%,"gemiddelde bijdrage/draagkracht ZV100VAA, weging adi"
+mi_kak_gelijk_zv100,-0.1642568729,"-0,16","Kakwani-index ZV100, weging gelijk"
+mi_ratio_gelijk_zv100,26.90215185,27%,"gemiddelde bijdrage/draagkracht ZV100, weging gelijk"
+mi_kak_silc_zv100,0.02885031008,"0,03","Kakwani-index ZV100, weging silc"
+mi_ratio_silc_zv100,30.6815349,31%,"gemiddelde bijdrage/draagkracht ZV100, weging silc"
+mi_kak_adi_zv100,0.01093473038,"0,01","Kakwani-index ZV100, weging adi"
+mi_ratio_adi_zv100,30.56002114,31%,"gemiddelde bijdrage/draagkracht ZV100, weging adi"
+mi_kak_gelijk_zv75,-0.09411938602,"-0,09","Kakwani-index ZV75, weging gelijk"
+mi_ratio_gelijk_zv75,21.94225778,22%,"gemiddelde bijdrage/draagkracht ZV75, weging gelijk"
+mi_kak_silc_zv75,0.03432139164,"0,03","Kakwani-index ZV75, weging silc"
+mi_ratio_silc_zv75,21.88152889,22%,"gemiddelde bijdrage/draagkracht ZV75, weging silc"
+mi_kak_adi_zv75,0.0300846716,"0,03","Kakwani-index ZV75, weging adi"
+mi_ratio_adi_zv75,21.9863133,22%,"gemiddelde bijdrage/draagkracht ZV75, weging adi"
+mi_kak_gelijk_zv50,-0.0116630543,"-0,01","Kakwani-index ZV50, weging gelijk"
+mi_ratio_gelijk_zv50,15.68083597,16%,"gemiddelde bijdrage/draagkracht ZV50, weging gelijk"
+mi_kak_silc_zv50,-0.05960866324,"-0,06","Kakwani-index ZV50, weging silc"
+mi_ratio_silc_zv50,16.01854879,16%,"gemiddelde bijdrage/draagkracht ZV50, weging silc"
+mi_kak_adi_zv50,-0.0476506809,"-0,05","Kakwani-index ZV50, weging adi"
+mi_ratio_adi_zv50,16.01001423,16%,"gemiddelde bijdrage/draagkracht ZV50, weging adi"
+mi_kak_gelijk_zv00,-0.3134500608,"-0,31","Kakwani-index ZV00, weging gelijk"
+mi_ratio_gelijk_zv00,7.375623381,7%,"gemiddelde bijdrage/draagkracht ZV00, weging gelijk"
+mi_kak_silc_zv00,-0.2135881147,"-0,21","Kakwani-index ZV00, weging silc"
+mi_ratio_silc_zv00,14.15502185,14%,"gemiddelde bijdrage/draagkracht ZV00, weging silc"
+mi_kak_adi_zv00,-0.2452707428,"-0,25","Kakwani-index ZV00, weging adi"
+mi_ratio_adi_zv00,13.77330728,14%,"gemiddelde bijdrage/draagkracht ZV00, weging adi"
+mi_gini_rooster,0.3134500608,"0,31",Gini-coëfficiënt van het rooster (gelijke gewichten)
+mi_silc_n_zelfstandigen,368,368,BE-SILC 2024 variant A: aantal zelfstandigen (typegevallen)
+mi_silc_zs_onder_6250,98.34228326,98%,BE-SILC A: aandeel zelfstandigen op posities onder €6.250
+mi_adi_zs_onder_6250,96.43644152,96%,ADI 2023: aandeel zelfstandigen op posities onder €6.250
+mi_zone_onder_van,1550,€1.550,zone onder tussengrens: eerste positie
+mi_zone_onder_tot,3750,€3.750,zone onder tussengrens: laatste positie
+mi_zone_schijf_van,4000,€4.000,zone degressieve schijf: eerste positie
+mi_zone_schijf_tot,5000,€5.000,zone degressieve schijf: laatste positie
+mi_zone_plafond_van,5250,€5.250,zone boven plafond: eerste positie
+mi_zone_plafond_tot,15000,€15.000,zone boven plafond: laatste positie
+mi_nbi_laagste_jaar,19955.7043,€19.956,"laagste netto belastbaar inkomen eenmanszaak op het rooster, per jaar"
+mi_br_ze_boven_wn_tot,6000,€6.000,laatste positie waar eenmanszaak meer betaalt dan werknemer
+mi_br_zv100_boven_wn_tot,6250,€6.250,"idem, vennootschap 100% loon"
+mi_br_zv75_onder_wn_vanaf,2750,€2.750,eerste positie (vanaf €2.250) waar ZV75 minder betaalt dan werknemer
+mi_br_zv50_onder_wn_vanaf,2500,€2.500,eerste positie (vanaf €2.250) waar ZV50 minder betaalt dan werknemer
+mi_br_zv00_onder_wn_vanaf,2500,€2.500,eerste positie (vanaf €2.250) waar ZV00 minder betaalt dan werknemer
+mi_eq_p_ze_boven_wn_tot,6250,€6.250,pensioen: laatste positie met hogere equivalentiegraad eenmanszaak dan werknemer
+mi_eq_p_zv75_boven_wn_tot,5000,€5.000,"pensioen: idem, vennootschap 75% loon"
+mi_vv_z_zs_boven_wn_tot,2000,€2.000,ziekte: laatste positie met minstens even hoge vervangingsgraad zelfstandige als werknemer (maand 7-12)
+mi_gg_p_wn_boven_ze_vanaf,2500,€2.500,pensioen: eerste positie met hoger werknemerspensioen
+mi_gg_p_wn_max_vanaf,3750,€3.750,pensioen werknemer: eerste positie op (ongeveer) het maximum
+mi_gg_z_wn_m2_onder100_tot,2000,€2.000,"garantiegraad ('alleen', 'ziekte', 'WN', '2'): hoogste positie onder 100%"
+mi_gg_z_wn_m36_onder100_tot,1550,€1.550,"garantiegraad ('alleen', 'ziekte', 'WN', '3-6'): hoogste positie onder 100%"
+mi_gg_w_wn_m13_onder100_tot,2000,€2.000,"garantiegraad ('alleen', 'werkloosheid', 'WN', '1-3'): hoogste positie onder 100%"
+mi_budget_alleen,1538.460298,"€1.538,46",referentiebudget alleenstaande
+mi_budget_koppel,2757.506756,"€2.757,51",referentiebudget koppel met 2 kinderen
+mi_partnerloon_laag,2431.41,"€2.431,41","netto loon partner, laag loon"
+mi_partnerloon_gem,3092.99,"€3.092,99","netto loon partner, gemiddeld loon"
+mi_eq_p_ze_constant_vanaf,5250,€5.250,equivalentiegraad pensioen ZE: eerste positie van het vlakke stuk
+mi_eq_p_zv100_constant_vanaf,5500,€5.500,equivalentiegraad pensioen ZV100: eerste positie van het vlakke stuk
+mi_pens_min,1773.35,"€1.773,35",minimumpensioen alleenstaande per maand
+mi_pens_max_wn,4024.266,"€4.024,27",maximaal bruto pensioen werknemer per maand
+mi_pens_grens_wn,80485.32,"€80.485,32",loongrens pensioenberekening werknemer per jaar
+mi_pens_max_zn,3798.876,"€3.798,88",maximaal bruto pensioen zelfstandige per maand
+mi_pens_grens_zn,75977.52,"€75.977,52",loongrens pensioenberekening zelfstandige per jaar
+mi_pens_plafond_wn_vanaf,3750,€3.750,eerste positie met het maximale pensioen (werknemer)
+mi_pens_minimum_wn_tot,2250,€2.250,laatste positie met het minimumpensioen (werknemer)
+mi_pens_netto_max_wn,2651.035741,€2.651,hoogste netto pensioen (werknemer)
+mi_pens_plafond_ze_vanaf,4000,€4.000,eerste positie met het maximale pensioen (eenmanszaak)
+mi_pens_minimum_ze_tot,2000,€2.000,laatste positie met het minimumpensioen (eenmanszaak)
+mi_pens_netto_max_ze,2552.581949,€2.553,hoogste netto pensioen (eenmanszaak)
+mi_pens_plafond_zv75_vanaf,5250,€5.250,eerste positie met het maximale pensioen (vennootschap 75% loon)
+mi_pens_minimum_zv75_tot,2750,€2.750,laatste positie met het minimumpensioen (vennootschap 75% loon)
+mi_pens_netto_max_zv75,2552.581949,€2.553,hoogste netto pensioen (vennootschap 75% loon)
+mi_pens_plafond_zv50_vanaf,8000,€8.000,eerste positie met het maximale pensioen (vennootschap 50% loon)
+mi_pens_minimum_zv50_tot,4250,€4.250,laatste positie met het minimumpensioen (vennootschap 50% loon)
+mi_pens_netto_max_zv50,2552.581949,€2.553,hoogste netto pensioen (vennootschap 50% loon)

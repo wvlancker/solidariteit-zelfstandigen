@@ -1,0 +1,5 @@
+typegeval,winst_eur,bezoldiging_eur,bijdrage_eenmanszaak_eur,bijdrage_vennootschap_incl_vb_eur,verschil_eur
+"volledige winst als bezoldiging, winst 45.000",45000,45000,9225,9612.34,-387.34
+"winst 60.000, bezoldiging 45.000 (minimum voor verlaagd VenB-tarief)",60000,45000,12300,9612.34,2687.66
+"winst 100.000, bezoldiging 45.000",100000,45000,18776.2,9612.34,9163.87
+"winst 50.000, geen bezoldiging (dividend of liquidatiereserve)",50000,0,10250,3843.94,6406.06
