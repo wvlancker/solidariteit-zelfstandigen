@@ -35,14 +35,13 @@ keywords:
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/"
 repository-code: "https://github.com/wvlancker/solidariteit-zelfstandigen"
-version: "0.1.0"
+version: "1.0.0"
 date-released: "2026-09-23"
-# DOI: Zenodo maakt er één aan zodra de repository gekoppeld en een release gepubliceerd is.
-# Daarom is v0.1.0 een technische release: enkel om het DOI te verkrijgen. Activeer daarna de
-# regel hieronder met het CONCEPT-DOI (het laagste nummer, dat altijd naar de nieuwste versie
-# verwijst), zet dezelfde waarde in het colofon van rapport.qmd, en draai run_all opnieuw.
-# De lopende tekst haalt het nummer hier op via de plaatshouder {{doi}}.
-# doi: "10.5281/zenodo.VUL-IN"
+# Het CONCEPT-DOI van het Zenodo-archief: het verwijst altijd naar de nieuwste versie.
+# Dit is de enige plaats waar het nummer staat. De lopende tekst van het rapport haalt het
+# hier op via de plaatshouder {{doi}}; het colofon van rapport.qmd vermeldt het met de hand
+# en code/tekst/zenodo_metadata.py waarschuwt als de twee niet meer overeenkomen.
+doi: "10.5281/zenodo.22914842"
 references:
   - type: software
     title: "Code van deze repository"

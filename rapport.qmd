@@ -18,16 +18,17 @@ datum: "September 2026"
 # wijziging: opmaak | 22 september 2026, check finale versie: status "Ontwerpversie, niet verspreiden" van de titelpagina gehaald. Terugzetten kan door de regel hieronder te activeren.
 # status: "Ontwerpversie, niet verspreiden"
 # <!-- wijziging: publicatie | het colofon verwijst voor reproduceerbaarheid naar het DOI van
-# het Zenodo-archief, niet naar de GitHub-repository (vraag Wim, 23 september 2026). Zenodo maakt
-# dat DOI pas aan bij de eerste release, dus tot dan staat hier VUL-IN-DOI. Vervang het na die
-# release door het concept-DOI, EN activeer dezelfde waarde in CITATION.cff (regel `doi:`);
-# code/tekst/zenodo_metadata.py waarschuwt als de twee niet overeenkomen. -->
+# het Zenodo-archief, niet naar de GitHub-repository (vraag Wim, 23 september 2026). Het nummer
+# hieronder is het CONCEPT-DOI: het verwijst altijd naar de nieuwste versie en blijft dus ook
+# bij latere releases kloppen. Het staat ook in CITATION.cff, waar de lopende tekst het via de
+# plaatshouder {{doi}} ophaalt; code/tekst/zenodo_metadata.py waarschuwt als de twee uit elkaar
+# lopen. Verander het hier nooit zonder CITATION.cff mee aan te passen. -->
 colofon: |
   Dit rapport werd opgesteld in opdracht van de vzw Academie voor de KMO, Zelfstandigen en Vrije Beroepen. De inhoud valt uitsluitend onder de verantwoordelijkheid van de auteurs.
 
   Contact: Wim Van Lancker, wim.vanlancker@kuleuven.be
 
-  Alle cijfers, figuren en tabellen in dit rapport zijn reproduceerbaar met de code en de gegevens gearchiveerd op Zenodo: [VUL-IN-DOI](https://doi.org/VUL-IN-DOI). De tekst, de figuren en de tabellen staan onder een Creative Commons Naamsvermelding 4.0-licentie (CC BY 4.0), de code onder een MIT-licentie. De onderliggende gegevens blijven onder de voorwaarden van hun oorspronkelijke bron.
+  Alle cijfers, figuren en tabellen in dit rapport zijn reproduceerbaar met de code en de gegevens gearchiveerd op Zenodo: [10.5281/zenodo.22914842](https://doi.org/10.5281/zenodo.22914842). De tekst, de figuren en de tabellen staan onder een Creative Commons Naamsvermelding 4.0-licentie (CC BY 4.0), de code onder een MIT-licentie. De onderliggende gegevens blijven onder de voorwaarden van hun oorspronkelijke bron.
 ---
 
 <!--

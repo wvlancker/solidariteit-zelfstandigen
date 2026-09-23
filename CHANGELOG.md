@@ -20,10 +20,12 @@ vindt die versie als apart archief op Zenodo.
 
 ---
 
-## 1.0.0 (nog te publiceren)
+## 1.0.0 (23 september 2026)
 
 Eerste publieke versie van het rapport. Inhoudelijk gelijk aan 0.1.0; het colofon en
-voetnoot 12 vermelden nu het DOI van het Zenodo-archief.
+voetnoot 12 in §5 vermelden nu het concept-DOI van het Zenodo-archief,
+[10.5281/zenodo.22914842](https://doi.org/10.5281/zenodo.22914842). Verwijs naar dat nummer:
+het blijft ook bij latere versies naar de nieuwste verwijzen.
 
 ## 0.1.0 (23 september 2026)
 
